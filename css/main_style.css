@@ -1,0 +1,337 @@
+/* @import url(//fonts.googleapis.com/earlyaccess/notosanstc.css); */
+
+
+
+
+html, body, #map { 
+
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+    height: 100%;
+    width: 100vw;
+    background-color: #1e1f34;
+
+    
+
+}
+
+
+body {
+    padding: 0;
+    margin: 0;
+
+    -webkit-appearance: none;
+    border-radius: 0;
+
+
+    /*  This will stop the margin, setting it to 0 */
+    font-family: 'Noto Sans TC',sans-serif !important;
+
+
+    cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1159.ani), url(https://ani.cursors-4u.net/cursors/cur-13/cur1159.png), auto !important;
+}
+
+
+textarea,
+input.text,
+input[type="text"],
+input[type="button"],
+input[type="submit"],
+.input-checkbox {
+-webkit-appearance: none;
+border-radius: 0;
+}
+
+
+#canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:99999;
+}
+
+
+/* .leaflet-touch .leaflet-bar a {
+    position: sticky !important;
+	width: 30px !important;
+	min-height: 30px !important;
+	line-height: 30px !important;
+    object-fit: cover !important;
+    white-space: nowrap;
+    overflow     : hidden;
+    text-overflow: ellipsis
+	}
+
+ */
+
+  
+#header{
+
+height: 100px;
+background-color: #1d1b1b;
+width: inherit;
+z-index: 10000;
+}
+
+#header_logo{
+    height:80px;
+    width:auto;
+    padding-top: 10px;
+}
+
+ul{
+margin:0px;
+list-style: none
+}
+
+#flex_header p{
+position: relative;
+color:white;
+right:20px;
+}
+
+
+#flex_header{
+
+position: relative;
+display: flex;
+justify-content: space-between;
+
+}
+
+.fa-bars{
+    font-size: 40px;
+    color: white;
+    padding-top: 15px;
+}
+
+#mobile_view_menu a{
+    position: relative;
+    padding: 20px 20px 0px 0px 
+}
+
+
+#menu li{
+    float:left;
+}
+
+ .fa-bars {
+    color: white;
+    z-index: 9999;
+  
+}
+
+#menu p{
+
+    color:white;
+    padding-left: 45px;
+    line-height: 10px;
+    font-size: 25px;
+    display: block;
+
+}
+
+
+.position_flex{
+    position: relative;
+    display: flex; 
+    flex-direction: column;
+    height:100vh;
+
+}
+
+.sidenav{
+    position: absolute;
+    top:80px;
+}
+
+
+
+.leaflet-control-container{
+white-space: nowrap;
+flex-wrap: nowrap;
+}
+
+#map{
+    cursor: url(https://ani.cursors-4u.net/cursors/cur-13/cur1159.ani), url(https://ani.cursors-4u.net/cursors/cur-13/cur1159.png), auto !important;
+}
+
+/* #map {
+    width: inherit;
+    height: inherit;
+    background-color: inherit;
+    /* top:0px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height:90vh; 
+   
+
+
+
+  } */
+
+  .leaflet-control-container{
+      overflow: hidden;
+  }
+
+
+
+.marquee {
+    margin: 0 auto;
+    white-space: nowrap;
+    overflow: hidden;
+    position: absolute;
+    font-size: 20px;
+    color:white;
+    width:inherit;
+  }
+  
+  .marquee span {
+    display: inline-block;
+    padding-left: 100%;
+    animation: marquee 20s linear infinite;
+   
+  }
+  
+  .marquee2 span {
+    animation-delay: 10s;
+
+  }
+  
+
+
+  @keyframes marquee {
+    0% {
+      transform: translate(0, 0);
+    }
+    100% {
+      transform: translate(-100%, 0);
+    }
+  }
+
+
+  /* .leaflet-bottom,.leaflet-right{
+
+    display: none;
+}
+     */
+
+     #coppyShare{
+        display: flex;
+position: absolute;
+z-index: 9999999;
+color:white;
+top: 50%;
+left: 50%;
+margin-top: -50px;
+margin-left: -50px;
+width: 150px;
+height: 80px;
+text-align: center;
+align-items: center;
+     }
+
+     #copypopup{
+        background-color: rgb(14, 56, 93,0.9);
+        -moz-animation: cssAnimation 0s ease-in 3s forwards;
+        /* Firefox */
+        -webkit-animation: cssAnimation 0s ease-in 3s forwards;
+        /* Safari and Chrome */
+        -o-animation: cssAnimation 0s ease-in 3s forwards;
+        /* Opera */
+        animation: cssAnimation 0s ease-in 3s forwards;
+        -webkit-animation-fill-mode: forwards;
+        animation-fill-mode: forwards;
+
+     }
+#adj_btn{
+    position: fixed;
+    top:180px;
+    z-index: 10000;
+}
+
+     .adjustview_button{
+        -webkit-appearance: none;
+        border-radius: 0;
+        margin-left: 12px;
+        width:30px;
+        height:40px;
+     }
+
+
+
+     @keyframes cssAnimation {
+        to {
+            width:0;
+            height:0;
+            overflow:hidden;
+        }
+    }
+    @-webkit-keyframes cssAnimation {
+        to {
+            width:0;
+            height:0;
+            visibility:hidden;
+        }
+    }
+
+
+
+@media only screen and (min-width: 992px){
+
+    #mobile_view_menu a{
+        display: none;
+    }
+}
+
+
+/* mobile view */
+  @media only screen and (max-width: 992px) {
+    #menu p{
+    display: none;
+    }
+
+    #adj_btn{
+        position: fixed;
+        top:150px;
+        z-index: 10000;
+    }
+    
+
+
+    /* #side_menu_left{
+        display: none;
+    } */
+
+    #header{
+
+        height: 80px;
+        background-color: #1d1b1b;
+        width: inherit;
+        z-index: 10000;
+        }
+        
+        #header_logo{
+            height:50px;
+            width:auto;
+            padding-top: 10px;
+        }
+        
+        .loader-bar div{
+            display:none;
+        }
+        
+        #land_percentage{
+            display:none;
+        }
+
+
+
+  }
+
+
+
+  

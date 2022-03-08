@@ -1,0 +1,502 @@
+#canvas{
+width:100%;
+height: 100%;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 9000;
+    top: 0px;
+    right: 0;
+    background-color: rgb(36, 36, 34);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+
+  }
+
+  #increaseSpace{
+
+    height:100px
+  }
+  
+
+#sidemenu_content{
+
+  padding-top:80px
+
+}
+
+#sidemenu_content a{
+  padding-top:90px
+
+}
+
+  #input_box{
+
+    padding-left:20px;
+    position: relative;
+    display: flex;
+
+  }
+
+.onholdnum{
+color:#83fd83;
+font-size: 25px;
+
+
+}
+
+
+  #user_input{
+    position: relative;
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
+    display: inline-block;
+    background-color: #1d232a;
+    color: #fff;
+    border: 1px solid #555;
+    box-sizing: border-box;
+    height: 30px;
+    width: calc(100% - 40px);
+    padding: 5px 10px;
+    border-radius: 15px;
+
+  }
+
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+
+  }
+
+  #user_icon_bySearch{
+    position: relative;
+    padding-top: 20px;
+    align-items: center;
+    text-align: center;
+    }
+    
+    
+    #user_icon_bySearch img{
+       
+      
+        border-radius:50% !important;
+        border: 5px solid rgb(104 166 255)
+    
+    }
+    
+    .side_onHoldStock{
+    
+    
+        color:white;
+        font-size: 10x;
+        padding-top:10px;
+        padding-left:5px;
+    
+    }
+
+
+    .idel_bySearch{
+      color:white;
+      font-size: 10x;
+      padding-top:10px;
+      padding-left:5px;
+  
+  }
+
+
+    #user_code_bySearch{
+    
+        color:white;
+        font-size: 18px;
+        padding-left:5px;
+    
+    }
+    
+    #user_name_bySearch{
+       
+      
+        color: white;
+        font-size: 25px;
+        text-align: center;
+    }
+    
+    #side_userlevel{
+    
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: white;
+        font-size: 20px;
+    
+    
+    }
+    
+    
+    #land_loaction button{
+        border: none;
+        outline: none;
+        background-color: rgb(62, 47, 62);
+        width:180px;
+        height:50px;
+        position: relative;
+        border-radius: 8px;
+        letter-spacing: 0.7px;
+        background-color: #252d38;
+        color: rgb(244, 79, 33);
+        font-size: 15px;
+        font-family: "Lato", sans-serif;
+        cursor: pointer;
+        box-shadow: rgba(0, 9, 61, 0.2) 0px 4px 8px 0px;
+        margin: 8px;
+    
+    
+    }
+
+    #idel_loaction button{
+      border: none;
+      outline: none;
+      background-color: rgb(62, 47, 62);
+      width:180px;
+      height:50px;
+      position: relative;
+      border-radius: 8px;
+      letter-spacing: 0.7px;
+      background-color: #252d38;
+      color: rgb(244, 79, 33);
+      font-size: 15px;
+      font-family: "Lato", sans-serif;
+      cursor: pointer;
+      box-shadow: rgba(0, 9, 61, 0.2) 0px 4px 8px 0px;
+      margin: 8px;
+  
+  
+  }
+
+
+    
+    
+    #button_space{
+    padding-top:20px;
+    
+    }
+    
+    
+    
+    #land_button{
+        
+        position: relative;
+        display:flex;
+        justify-content: space-around;
+        align-items: center; 
+    
+        
+    }
+    
+    #idel_loaction{
+      position: relative;
+      align-items: center; 
+      text-align: center;
+
+
+
+    }
+
+
+    #land_button img{
+        width: 20px;
+    }
+    
+    
+    #side_userlevel img{
+    
+    width: 20px;
+    height: auto;
+    
+    }
+    
+    #lock_btn{
+      color:white
+    }
+    
+    #land_loaction{
+    
+        position: relative;
+        align-items: center; 
+        text-align: center;
+    
+    }
+    
+    .land_button{
+    
+        position:relative;
+        padding-top: 10px;
+        width:200px;
+    }
+    
+    
+    .buttons_scroll{
+    
+    width:100vw;
+    height: 8vh;
+    background-color:rgb(39, 37, 47);
+    bottom:0;
+    z-index: 100;
+    
+    }
+
+
+
+
+
+  /* .side_click{
+
+position:relative;
+float:right;
+    color: white;
+
+  }
+
+ */
+#userinput{
+position:relative;
+display: flex;
+justify-content: space-between;
+}
+
+ #input_submit {
+  display: inline-block;
+  background-color: #0085FF;
+  color: #fff;
+  border: 0px;
+  box-sizing: border-box;
+  height: 30px;
+  width: 30px;
+  padding: 0px 5px 0px;
+  border-radius: 15px;
+  text-align: center;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 30px;
+  vertical-align: bottom;
+  background-size: 50%;
+
+
+}
+
+
+ #search_button{
+    position: absolute;
+    right:60px;
+    z-index:1000;
+    float: right;
+    top: 200px;
+    width:70px;
+    height: 100px;
+    background-color: #0a126f;
+    color:white;
+ }
+
+ #side_menu_right{
+  position: fixed;
+  right:0;
+  z-index:1000;
+  float: right;
+  top: 0;
+  width:65px;
+  height: 100vh;
+  background-color: #2d2d2d;
+  color:white;
+}
+
+#side_menu_right a {
+  padding: 25px 8px 25px 8px;
+  text-decoration: none;
+  font-size: 30px;
+  color: #dcdbdb;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+#side_icon{
+  padding-top:100px;
+}
+
+
+
+.fa-search{
+color: white;
+}
+
+.lock_icon{
+ 
+    color: rgb(218, 211, 211);
+    fill: currentColor;
+ 
+    width: 20px;
+
+
+
+}
+
+#side_search_box:hover .fa-search{
+  color:rgb(243, 236, 28);
+  font-size:45px;
+  transition: 0.5s ease-out;
+  }
+  
+
+
+.sidebelow:hover{
+color:rgb(243, 236, 28);
+font-size:45px;
+transition: 0.5s ease-out;
+}
+
+#side_menu_right span{
+font-size: 10px;
+
+}
+
+#side_search_box{
+  background-color: #1a8bf7;
+}
+
+
+
+#side_landShape{
+  height: 40px;
+  width: 6px;
+  background-color: #9ffffb;
+
+}
+#side_land_lock{
+  height: 40px;
+  width: 6px;
+  background-color: #7da3a1;
+  
+
+}
+
+
+.left_side_point img{
+
+
+  width:50px;
+}
+
+
+#side_code_N_share{
+
+  display: flex;
+  position:relative;
+  justify-content: space-evenly;
+
+}
+
+
+#share_button_bySearch{
+align-items: baseline;
+
+}
+
+#search_icon{
+    width: 30px;
+}
+  
+#side_menu_right span{
+  font-size: 10px;
+  text-align: center;
+  font-family: 'Secular One', sans-serif;
+  padding-top: 5px;
+       }
+
+  #profileShare{
+    position: relative;
+    background-color: rgb(32 201 201);
+    color: white;
+    font-family: inherit;
+    font-weight: bold;
+    border-radius: 4px;
+    cursor: pointer;
+    border: none;
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: uppercase;
+ 
+    font-size: 15px;
+    height: 25px;
+
+
+  }
+
+  #side_code_N_share{
+
+    padding-top:20px;
+
+
+  }
+  
+  .fa-share{
+    color: white;
+    z-index: 999999;
+  }
+
+  #side_space{
+
+    height:80px;
+  }
+  
+  
+
+  /* @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } */
+
+
+  @media only screen and (max-width: 992px) {
+
+    #side_icon {
+
+      padding-top: 60px;
+    }
+    #side_menu_right{
+
+      display: none;
+    }
+
+    .leaflet-control-attribution.leaflet-control a {
+      display : none;
+    }
+
+    .leaflet-control-minimap{
+      right:0px !important;
+    }
+
+  }

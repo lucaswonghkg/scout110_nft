@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>香港童軍總會110周年元宇宙遊戲</title>
+        <meta name="HandheldFriendly" content="true"/>
+
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+        <meta
+            name="viewport"
+            content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+            integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+            crossorigin=""/>
+
+        <link
+            href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap"
+            rel="stylesheet">
+        <link rel="stylesheet" href="css/initial_loading.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/main_style.css">
+        <link rel="stylesheet" href="css/side_menu.css">
+        <link rel="stylesheet" href="css/powerbar.css">
+        <link rel="stylesheet" href="css/Control.MiniMap.css"/>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <!-- Make sure you put this AFTER Leaflet's CSS -->
+        <script
+            src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+            crossorigin=""></script>
+
+        <script src="js/Control.MiniMap.js" type="text/javascript"></script>
+
+    </head>
+
+    <body>
+        <div id="container">
+            <div id="initial_loadingScreen">
+
+                <div id="load_greeting">
+                    <span id="chinese_initload">
+                        <h1>我們即將帶你進入</h1>
+                        <h2>香港童軍110元宇宙遊戲世界</h2>
+                    </span>
+                    <span id="english_initload">
+                        <h2>You will soon arrive at the
+                            <br>HK Scout 110 Metaverse</h2>
+                    </span>
+                    <span>
+                        <img src="icon/loading.gif"/>
+                    </span>
+                </div>
+                <div id="background-container">
+                    <div class="stars"></div>
+                    <div class="twinkling"></div>
+                </div>
+            </div>
+
+            <!-- <iframe src="demo1_hkScoutSong.mp3" allow="autoplay" style="display:none"
+            id="iframeAudio"> </iframe> -->
+
+            <!-- <audio controls autoplay loop id="music" style="display:none"> <source
+            src="demo1_hkScoutSong.mp3" type="audio/mp3" > </audio> <script>
+            document.addEventListener('click', musicPlay); function musicPlay() {
+            document.getElementById('music').play(); document.removeEventListener('click',
+            musicPlay); } </script> -->
+
+            <div class="position_flex">
+
+                <div id="header">
+
+                    <div id="flex_header">
+
+                        <div>
+                            <ul id="menu">
+                                <li>
+                                    <img src="headerLogo.png" id="header_logo">
+                                </li>
+                                <li>
+                                    <p>110x挑戰虛擬土地</p>
+                                    <p>Hong Kong Scout 110x Challengeland</p>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div>
+                            <p id="land_percentage"></p>
+                            <div class="loader-bar">
+                                <div class="block-border"></div>
+                                <div class="block-border"></div>
+                                <div class="block-border"></div>
+                                <div class="block-border"></div>
+                                <div class="block-border"></div>
+                                <div class="block-border"></div>
+                                <div class="block-border"></div>
+                                <div class="block-border"></div>
+                                <div class="block-meter"></div>
+                            </div>
+
+                            <!-- mobile view menu button -->
+                            <span id="mobile_view_menu">
+                                <a href="#search" onclick="mobileNav()">
+                                    <i class="fa fa-bars"></i>
+                                </a>
+                            </span>
+
+                        </div>
+
+                    </div>
+
+                </div>
+                <div id="coppyShare"></div>
+                <!-- <div id="mapParent"> -->
+
+                <div id="map"></div>
+                <span id="adj_btn">
+                    <button
+                        class="adjustview_button fa fa-fw fa-location-arrow"
+                        onclick="adjustView()"></button>
+                </span>
+                <div class="buttons_scroll">
+
+                    <p class="marquee">
+                        <span>&nbsp;Welcome to the Hong Kong Scout 110x Challengeland – Scout Metaverse
+                            歡迎來到香港童軍110周年宣傳-線上互動元宇宙遊戲-110x挑戰虛擬土地&nbsp;</span>
+                    </p>
+                    <!-- <p class="marquee marquee2">
+                    <span>歡迎來到香港童軍110周年宣傳-線上互動元宇宙遊戲-110x挑戰虛擬土地&nbsp;&nbsp;&nbsp;</span> </p> -->
+
+                </div>
+
+                <div id="side_menu_right">
+                    <div id="side_icon">
+                        <div></div>
+                        <div id="side_search_box">
+                            <a href="#search" onclick="openNav()">
+                                <i class="fa fa-fw fa-search"></i>
+                                <span>Search</span></a>
+                        </div>
+                        <a href="https://hkscout110.scout.org.hk/zh-hk/" target="_blank">
+                            <i class="fa fa-fw fa-home sidebelow"></i>
+                            <span>Home</span></a>
+                        <a href="https://www.facebook.com/hkscout110" target="_blank">
+                            <i class="fa fa-fw fa-facebook-f sidebelow"></i>
+                            <span>Facebook</span></a>
+                        <a href="https://www.instagram.com/hkscout110/" target="_blank">
+                            <i class="fa fa-fw fa-instagram sidebelow"></i>
+                            <span>Instagram</span></a>
+                        <a href="#contact" onclick="adjustView()">
+                            <i class="fa fa-fw fa-location-arrow sidebelow"></i>
+                            <span>Adjust<br>View</span></a>
+                    </div>
+                </div>
+
+                <!-- </div> -->
+
+            </div>
+
+            <div id="mySidenav" class="sidenav">
+                <div id="sidemenu_content">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                    <form onsubmit="return false;">
+                        <div id="input_box">
+                            <div class="userinput">
+                                <input
+                                    type="number"
+                                    id="user_input"
+                                    name="user_id"
+                                    placeholder="Challenger Code"
+                                    minlength="4"
+                                    maxlength="4"
+                                    required="required">
+                                <!-- type="submit" value -->
+
+                                <!-- <i class="fa fa-bars"></i> -->
+                                <button
+                                    class="fa fa-search"
+                                    id="input_submit"
+                                    title="Search"
+                                    onclick="getCodeInput(); return false;"></button>
+
+                            </div>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- Edit The search panel -->
+
+                <div id="user_icon_bySearch"></div>
+                <div id="user_name_bySearch"></div>
+                <div id="level_bySearch"></div>
+                <div id="side_code_N_share">
+                    <div id="user_code_bySearch"></div>
+                    <div id="share_button_bySearch"></div>
+                </div>
+                <div id="onHold_bySearch"></div>
+                <div id="land_loaction"></div>
+                <div id="idel_bySearch"></div>
+                <div id="idel_loaction"></div>
+                <div id="side_space"></div>
+
+                <!-- <a href="#">About</a> <a href="#">Services</a> <a href="#">Clients</a> <a
+                href="#">Contact</a> -->
+            </div>
+        </div>
+        <script type="text/javascript" src="js/parti_data.js"></script>
+        <script type="text/javascript" src="js/power_bar_text.js"></script>
+        <script type="text/javascript" src="js/map_data.js"></script>
+        <script type="text/javascript" src="js/map_datahkip.js"></script>
+        <script type="text/javascript" src="js/map.js"></script>
+
+        <!-- <script type="text/javascript" src="get_posistion.js"></script> <script
+        type="text/javascript" src="print_csv.js"></script> -->
+
+        <!-- <script type="text/javascript" src="get_posistion.js"></script> <script
+        type="text/javascript" src="print_csv.js"></script> <script
+        type="text/javascript" src="add_num.js" defer></script> -->
+
+        <script>
+            function mobileNav() {
+
+                //side menu
+                var sideMenu = document.getElementById('side_menu_right');
+                var displaySetting = sideMenu.style.display;
+                //menu button on mobile responsive
+                var mbutton = document.getElementById('mobileButton');
+
+                if (displaySetting == 'block') {
+                    sideMenu.style.display = 'none';
+                } else {
+                    sideMenu.style.display = 'block';
+                }
+
+            }
+
+            function openNav() {
+                document
+                    .getElementById("mySidenav")
+                    .style
+                    .width = "250px";
+            }
+
+            function adjustView() {
+                map.flyTo([
+                    22.240048, 114.225517
+                ], 13, {
+                    animate: true,
+                    duration: 1 // in seconds
+                });
+            }
+
+            function closeNav() {
+                document
+                    .getElementById("mySidenav")
+                    .style
+                    .width = "0";
+                document
+                    .getElementById("user_icon_bySearch")
+                    .innerHTML = "";
+                document
+                    .getElementById("user_name_bySearch")
+                    .innerHTML = "";
+                document
+                    .getElementById("level_bySearch")
+                    .innerHTML = "";
+                document
+                    .getElementById("user_code_bySearch")
+                    .innerHTML = "";
+                document
+                    .getElementById("share_button_bySearch")
+                    .innerHTML = "";
+                document
+                    .getElementById("land_loaction")
+                    .innerHTML = "";
+                document
+                    .getElementById("onHold_bySearch")
+                    .innerHTML = "";
+                document
+                    .getElementById("idel_loaction")
+                    .innerHTML = "";
+                document
+                    .getElementById("idel_bySearch")
+                    .innerHTML = "";
+
+            }
+        </script>
+        <script></script>
+
+        <script type="text/javascript" src="js/share_profile.js"></script>
+        <script type="text/javascript" src="js/submit.js"></script>
+        <script type="text/javascript" src="js/getUrlParam.js"></script>
+
+    </div>
+
+</body>
+
+<script>
+    const wait = (delay = 0) => new Promise(resolve => setTimeout(resolve, delay));
+
+    const setVisible = (elementOrSelector, visible) => (
+        typeof elementOrSelector === 'string'
+            ? document.querySelector(elementOrSelector)
+            : elementOrSelector
+    ).style.display = visible
+        ? 'block'
+        : 'none';
+
+    setVisible('#map', false);
+    setVisible('#initial_loadingScreen', true);
+
+    document.addEventListener('DOMContentLoaded', () => wait(1000).then(() => {
+        setVisible('#map', true);
+        setVisible('#initial_loadingScreen', false);
+    }));
+</script>
+
+</html>
