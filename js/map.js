@@ -8,6 +8,15 @@ svgElement.setAttribute('id', "map-grid");
 svgElement.innerHTML += svgString;
 svgElement.innerHTML += hkiOne;
 
+var svgElement2 = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+svgElement2.setAttribute('xmlns', "http://www.w3.org/2000/svg");
+svgElement2.setAttribute('viewBox', "0 0 250 215");
+svgElement2.setAttribute('id', "map-grid");
+svgElement2.innerHTML += svgString;
+svgElement2.innerHTML += hkiOne;
+
+map.setView([22.240048, 114.225517], 13);
+
 // var svgBounds = [[22.600739, 113.814195], [22.162862, 114.469347]];
 // map can capture clicks...
 map.on('click', function (e) {
@@ -35,25 +44,42 @@ function doStuff(e) {
 
 var image = L.svgOverlay(svgElement, svgBounds).addTo(map);
 
-var image = L.svgOverlay(svgElement, svgBounds).addTo(map);
-
-
 var popupLocation1 = new L.LatLng(22.198429314192992,114.29880296112971);
-
 var popupContent1 = '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhkscout110%2Fposts%2F153121247106472&show_text=true&width=500" width="300" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>',
 popup1 = new L.Popup();
 popup1.setLatLng(popupLocation1);
 popup1.setContent(popupContent1);
-
-
 map.addLayer(popup1);
 
-	
-	
+
+// L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+//     // attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+//     maxZoom: 18,
+//     id: 'mapbox/streets-v11',
+//     tileSize: 512,
+//     zoomOffset: -1,
+//     transparency: 'true',
+//     accessToken: 'pk.eyJ1IjoidGhvbWFzc3RoIiwiYSI6ImNreTRsajZ0ZzBjdTcydnB2czh5MXVlcHoifQ.TsN1MYvr1Ko5eVuo1fdJ1g',
+//     opacity:5,
+// }).addTo(map);
 
 
 
-map.setView([22.234032, 114.227579], 13);
+//var sol = L.latLng([145, 175]);
+//var marker = L.marker(sol).addTo(map);
+
+var image2 = L.svgOverlay(svgElement2,svgBounds).addTo(map);
+
+
+		var rect1 = {color: "#ff1100", weight: 3};
+		var rect2 = {color: "#0000AA", weight: 1, opacity:0, fillOpacity:0};
+		var miniMap = new L.Control.MiniMap(image2, { zoomLevelOffset:-3, toggleDisplay: true, aimingRectOptions : rect1, shadowRectOptions: rect2, position : "bottomright"} ).addTo(map);
+
+        // position : "topleft"
+
+
+
+
 
 // 22.15005767	13241.53755
 
