@@ -7,13 +7,14 @@ svgElement.setAttribute('viewBox', "0 0 250 215");
 svgElement.setAttribute('id', "map-grid");
 svgElement.innerHTML += svgString;
 svgElement.innerHTML += hkiOne;
+svgElement.innerHTML += hkiTwo;
 
 var svgElement2 = document.createElementNS("http://www.w3.org/2000/svg", "svg");
 svgElement2.setAttribute('xmlns', "http://www.w3.org/2000/svg");
 svgElement2.setAttribute('viewBox', "0 0 250 215");
 svgElement2.setAttribute('id', "map-grid");
 svgElement2.innerHTML += svgString;
-svgElement2.innerHTML += hkiOne;
+
 
 map.setView([22.240048, 114.225517], 13);
 
@@ -76,8 +77,13 @@ var image2 = L.svgOverlay(svgElement2,svgBounds).addTo(map);
 		var miniMap = new L.Control.MiniMap(image2, { zoomLevelOffset:-3, toggleDisplay: true, aimingRectOptions : rect1, shadowRectOptions: rect2, position : "bottomright"} ).addTo(map);
 
         // position : "topleft"
+  
+var marker = L.marker([22.279378886458154, 114.17487859725954], {
+        elevation: 260.0,
+        title: "Transamerica Pyramid"
+        }).addTo(map);
 
-
+          marker.bindPopup("<center><p>香港童軍百周年紀念大樓<br>Hong Kong Scout Centennial Building</p><img src='icon/Centennial.png' alt='香港童軍百周年紀念大樓' width='100' height='200'></center>").openPopup();
 
 
 

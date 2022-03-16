@@ -1,12 +1,12 @@
 var svgString = `
-<path
+ <path
      id="rect206987"
      style="fill:#1e1f34;stroke-width:0.280224"
      d="M -22.009378,14.650441 H 266.94616 V 224.02025 H -22.009378 Z" />
   <path
      id="rect207113"
-     style="fill:#b3d85f;stroke-width:0.234329;fill-opacity:1"
-     d="m 149.331,146.21411 h 48.00642 v 72.89623 H 149.331 Z" />
+     style="fill:#b3d85f;fill-opacity:1;stroke-width:0.31485"
+     d="m 110.67025,146.21411 h 86.66717 v 72.89623 h -86.66717 z" />
   <path
      id="rect206604"
      style="fill:#1e1f34;fill-opacity:1;stroke-width:1"
@@ -16,6 +16,18 @@ var svgString = `
      id="rect210993"
      style="fill:#1e1f34;stroke-width:0.280224"
      d="m 180.14796,143.56813 h 26.97887 v 39.43522 h -26.97887 z" />
+  <path
+     id="rect210993-2"
+     style="fill:#1e1f34;stroke-width:0.10618"
+     d="m 132.16786,142.34818 h 17.49675 v 8.73019 h -17.49675 z" />
+  <path
+     id="rect210993-2-4"
+     style="fill:#1e1f34;stroke-width:0.22546"
+     d="m 108.44105,182.47968 h 27.02024 v 25.48848 h -27.02024 z" />
+  <path
+     id="rect210993-2-4-8"
+     style="fill:#1e1f34;stroke-width:0.22546"
+     d="m 92.747718,173.93941 h 27.020242 v 25.48848 H 92.747718 Z" />
   <path
      id="rect210995"
      style="fill:#1e1f34;stroke-width:0.280224"
