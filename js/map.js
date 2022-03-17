@@ -80,13 +80,23 @@ var image2 = L.svgOverlay(svgElement2,svgBounds).addTo(map);
   
 var marker = L.marker([22.279378886458154, 114.17487859725954], {
         elevation: 260.0,
-        title: "Transamerica Pyramid"
+        title: "香港童軍百周年紀念大樓",
+        autoClose:false 
         }).addTo(map);
 
-          marker.bindPopup("<center><p>香港童軍百周年紀念大樓<br>Hong Kong Scout Centennial Building</p><img src='icon/Centennial.png' alt='香港童軍百周年紀念大樓' width='100' height='200'></center>").openPopup();
+          marker.bindPopup("<center><p>香港童軍百周年紀念大樓<br>Hong Kong Scout Centennial Building</p><img src='icon/Centennial.png' alt='香港童軍百周年紀念大樓' width='100' height='200'></center>",{autoClose:false}).openPopup();
+
+var marker = L.marker([22.243890824887522, 114.22396302223207], {
+        elevation: 260.0,
+        title: "大潭童軍中心",
+        autoClose:false 
+        }).addTo(map);
+    
+            marker.bindPopup("<center><p>大潭童軍中心<br>Tai Tam Scout Centre</p><img src='icon/TaiTam.png' alt='大潭童軍中心' width='175' height='125'></center>",{autoClose:false}).openPopup();
 
 
 
+        //   22.243890824887522, lng: 114.22396302223207
 // 22.15005767	13241.53755
 
 
