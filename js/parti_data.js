@@ -5,12 +5,12 @@ const user_dataset = `{
       "lang": "chi",
       "developed": 1,
       "non_developed": 11,
-      "c_code": "000",
+      "c_code": 0,
       "level": 1,
       "portrait": "110_challemge_sd_profic_5.png",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "22.244117656586262",
+      "l1_lan": "22.243909688874634",
       "l1_lng": "114.23218131065369",
       "l2_code": "",
       "l2_size": "",
@@ -55,7 +55,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "100": {
       "name": "李耀匡",
@@ -113,7 +114,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": "海外"
    },
    "101": {
       "name": "李文曦",
@@ -171,7 +173,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "102": {
       "name": "Law Kin Pong",
@@ -229,16 +232,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "103": {
       "name": "Chan Kei Yan",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 103,
-      "level": 1,
+      "level": 2,
       "portrait": "0103.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -246,8 +250,8 @@ const user_dataset = `{
       "l1_lng": "114.21855568885805",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.259128180059065",
+      "l2_lng": "114.1422200202942",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -287,16 +291,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "104": {
       "name": "WH Wong",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 104,
-      "level": 1,
+      "level": 2,
       "portrait": "0104.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -304,8 +309,8 @@ const user_dataset = `{
       "l1_lng": "114.21856641769409",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.264189326979153",
+      "l2_lng": "114.14211273193361",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -345,16 +350,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "105": {
       "name": "Benny Mok ",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 105,
-      "level": 1,
+      "level": 2,
       "portrait": "0105.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -362,8 +368,8 @@ const user_dataset = `{
       "l1_lng": "114.2079019546509",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.27656044214893",
+      "l2_lng": "114.15599584579469",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -403,7 +409,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "106": {
       "name": "Leung Ka Hin",
@@ -461,7 +468,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "107": {
       "name": "Lai Chun",
@@ -519,7 +527,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "108": {
       "name": "Kit Yeung",
@@ -577,7 +586,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "109": {
       "name": "Tang Yuk-choi",
@@ -635,16 +645,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "110": {
       "name": "Wilson LAI",
       "district": "總部(銀禧區)",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 110,
-      "level": 1,
+      "level": 2,
       "portrait": "0110.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -652,8 +663,8 @@ const user_dataset = `{
       "l1_lng": "114.24309253692628",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.25646788424157",
+      "l2_lng": "114.17228221893312",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -693,16 +704,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "111": {
       "name": "Tsang Lai Shan Liza",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 111,
-      "level": 1,
+      "level": 2,
       "portrait": "0111.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -710,8 +722,8 @@ const user_dataset = `{
       "l1_lng": "114.23208475112916",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.256181485621862",
+      "l2_lng": "114.17766809463502",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -751,7 +763,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "112": {
       "name": "陳宇彬",
@@ -809,7 +822,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "113": {
       "name": "何俊傑",
@@ -867,7 +881,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "114": {
       "name": "Adrian Leung ",
@@ -925,16 +940,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "115": {
       "name": "Ming Law",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 115,
-      "level": 1,
+      "level": 2,
       "portrait": "0115.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -942,8 +958,8 @@ const user_dataset = `{
       "l1_lng": "114.20218700150146",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.2842270351365",
+      "l2_lng": "114.12578344345094 ",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -983,7 +999,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "116": {
       "name": "余志雄",
@@ -1041,16 +1058,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "117": {
       "name": "Chris Wong",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 117,
-      "level": 1,
+      "level": 2,
       "portrait": "0117.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1058,8 +1076,8 @@ const user_dataset = `{
       "l1_lng": "114.1968083381653",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.284098376543284",
+      "l2_lng": "114.13137316703798",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1099,7 +1117,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "118": {
       "name": "WONG Lap Wai",
@@ -1157,16 +1176,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "119": {
       "name": "張嘉政",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 119,
-      "level": 1,
+      "level": 2,
       "portrait": "0119.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1174,8 +1194,8 @@ const user_dataset = `{
       "l1_lng": "114.20768016556396",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.284240233537695",
+      "l2_lng": "114.13696289062501",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1215,16 +1235,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "120": {
       "name": "方栢麟",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 120,
-      "level": 1,
+      "level": 2,
       "portrait": "0120.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1232,8 +1253,8 @@ const user_dataset = `{
       "l1_lng": "114.2131018339569",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.27914769309472",
+      "l2_lng": "114.12871778011322",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1273,7 +1294,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "121": {
       "name": "Chi Wai",
@@ -1331,16 +1353,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "122": {
       "name": "Jessie Law",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 122,
-      "level": 1,
+      "level": 2,
       "portrait": "0122.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1348,8 +1371,8 @@ const user_dataset = `{
       "l1_lng": "114.21845912933351",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.259021996192114",
+      "l2_lng": "114.15048122406007",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1389,16 +1412,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "123": {
       "name": "Tsim siu kei James",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 123,
-      "level": 1,
+      "level": 2,
       "portrait": "0123.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1406,8 +1430,8 @@ const user_dataset = `{
       "l1_lng": "114.22408816208193",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.279213210693307",
+      "l2_lng": "114.12026882171632",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1447,16 +1471,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "124": {
       "name": "Lung Kit Ling",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 124,
-      "level": 1,
+      "level": 2,
       "portrait": "0124.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1464,8 +1489,8 @@ const user_dataset = `{
       "l1_lng": "114.19939038147277",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.23882303568134",
+      "l2_lng": "114.15861368179323",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1505,7 +1530,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "125": {
       "name": "LAI TUNG",
@@ -1563,16 +1589,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "126": {
       "name": "Bonnie Kwong",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 126,
-      "level": 1,
+      "level": 2,
       "portrait": "0126.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1580,8 +1607,8 @@ const user_dataset = `{
       "l1_lng": "114.20497649887695",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.263892610249854",
+      "l2_lng": "114.1558349132538",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1621,16 +1648,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "127": {
       "name": "mak yuen.ching.denise",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 127,
-      "level": 1,
+      "level": 2,
       "portrait": "0127.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1638,8 +1666,8 @@ const user_dataset = `{
       "l1_lng": "114.1967068626218",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.25366074483458",
+      "l2_lng": "114.16130661964418",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1679,16 +1707,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "128": {
       "name": "KK",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 128,
-      "level": 1,
+      "level": 2,
       "portrait": "0128.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -1696,8 +1725,8 @@ const user_dataset = `{
       "l1_lng": "114.1966474056244",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.24381841965736",
+      "l2_lng": "114.15575981140137",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -1737,7 +1766,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "129": {
       "name": "鄧志輝",
@@ -1795,7 +1825,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "130": {
       "name": "Eric Li",
@@ -1853,7 +1884,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "131": {
       "name": "鍾子健",
@@ -1911,7 +1943,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "132": {
       "name": "黎仲豪",
@@ -1969,7 +2002,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "133": {
       "name": "萬仲豪",
@@ -2027,16 +2061,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "134": {
       "name": "吳冠達",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 134,
-      "level": 1,
+      "level": 2,
       "portrait": "0134.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -2044,8 +2079,8 @@ const user_dataset = `{
       "l1_lng": "114.21040889610597",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.26897529443641",
+      "l2_lng": "114.17221784591676",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -2085,7 +2120,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "135": {
       "name": "陳亮希",
@@ -2143,7 +2179,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "136": {
       "name": "Andy Chau",
@@ -2201,7 +2238,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "137": {
       "name": "陳善雯",
@@ -2259,7 +2297,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "138": {
       "name": "Pun Long Him",
@@ -2317,7 +2356,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "139": {
       "name": "FONG KIN KEUNG KENNETH",
@@ -2375,7 +2415,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "140": {
       "name": "Regent Cheung",
@@ -2433,16 +2474,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "141": {
       "name": "Tsoi Wai Lok",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 141,
-      "level": 1,
+      "level": 2,
       "portrait": "0141.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -2450,8 +2492,8 @@ const user_dataset = `{
       "l1_lng": "114.1966970268186",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.258703607162317",
+      "l2_lng": "114.16408538818361",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -2491,7 +2533,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "142": {
       "name": "Darren Barton",
@@ -2549,7 +2592,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "143": {
       "name": "Wolfgang Lin ",
@@ -2607,16 +2651,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "144": {
       "name": "卓曉詩",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 144,
-      "level": 1,
+      "level": 2,
       "portrait": "0144.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -2624,8 +2669,8 @@ const user_dataset = `{
       "l1_lng": "114.22682787725536",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.248861648864583",
+      "l2_lng": "114.15876388549806",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -2665,7 +2710,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "145": {
       "name": "LO CHI KONG",
@@ -2723,7 +2769,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "146": {
       "name": "Yeung Tak Ming",
@@ -2781,7 +2828,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "147": {
       "name": "Ho Wai",
@@ -2839,7 +2887,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "148": {
       "name": "sin hung ming",
@@ -2897,7 +2946,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "149": {
       "name": "Tam Po Sing",
@@ -2955,7 +3005,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "150": {
       "name": "譚志樂",
@@ -3013,7 +3064,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "151": {
       "name": "Shiu King Lun Alan",
@@ -3071,7 +3123,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "152": {
       "name": "方乘軒",
@@ -3129,7 +3182,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "153": {
       "name": "杜俊熙",
@@ -3187,16 +3241,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "154": {
       "name": "徐嘉年",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 154,
-      "level": 1,
+      "level": 2,
       "portrait": "0154.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -3204,8 +3259,8 @@ const user_dataset = `{
       "l1_lng": "114.22137020523226",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.276544914447317",
+      "l2_lng": "114.13405537605287",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -3245,7 +3300,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "155": {
       "name": "朱俊文",
@@ -3303,7 +3359,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "156": {
       "name": "歐陽浩榮",
@@ -3361,7 +3418,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "157": {
       "name": "楊永健",
@@ -3419,7 +3477,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "158": {
       "name": "YAU TING FUNG",
@@ -3477,7 +3536,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "159": {
       "name": "鄧卓楠",
@@ -3535,7 +3595,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "160": {
       "name": "Ho Ka Yi",
@@ -3593,7 +3654,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "161": {
       "name": "TSE CHIU HUNG",
@@ -3651,16 +3713,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "162": {
       "name": "Henry Yeung",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 162,
-      "level": 1,
+      "level": 2,
       "portrait": "0162.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -3668,8 +3731,8 @@ const user_dataset = `{
       "l1_lng": "114.23758864402772",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.251346364668183",
+      "l2_lng": "114.18319880962373",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -3709,7 +3772,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "163": {
       "name": "黃智燊",
@@ -3767,7 +3831,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "164": {
       "name": "房順堯",
@@ -3825,7 +3890,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "165": {
       "name": "CHOW KIN SHUEN",
@@ -3883,7 +3949,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "166": {
       "name": "許偉駿",
@@ -3941,7 +4008,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "167": {
       "name": "鍾淑敏",
@@ -3999,16 +4067,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "168": {
       "name": "Phang Pok",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 168,
-      "level": 1,
+      "level": 2,
       "portrait": "0168.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -4016,8 +4085,8 @@ const user_dataset = `{
       "l1_lng": "114.21851277351381",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.263995134120666",
+      "l2_lng": "114.12861585617067",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -4057,16 +4126,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "169": {
       "name": "Ka Leong Tong",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 169,
-      "level": 1,
+      "level": 2,
       "portrait": "0169.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -4074,8 +4144,8 @@ const user_dataset = `{
       "l1_lng": "114.2157769203186",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.268978578045527",
+      "l2_lng": "114.13415193557739",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -4115,7 +4185,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "170": {
       "name": "陳佳駿",
@@ -4173,7 +4244,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "171": {
       "name": "Carmen",
@@ -4231,7 +4303,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "172": {
       "name": "Law Chu Sau Kuen",
@@ -4289,7 +4362,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "173": {
       "name": "Christal Chuk",
@@ -4347,16 +4421,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "174": {
       "name": "Lei Veng Si",
       "district": "海外",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 174,
-      "level": 1,
+      "level": 2,
       "portrait": "0174.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -4364,8 +4439,8 @@ const user_dataset = `{
       "l1_lng": "114.21590365485828",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.274241359502653",
+      "l2_lng": "114.12051558494568",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -4405,7 +4480,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "175": {
       "name": "double (0123)",
@@ -4463,7 +4539,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "176": {
       "name": "Lucy Lo",
@@ -4521,16 +4598,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "177": {
       "name": "梁樂羚",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 177,
-      "level": 1,
+      "level": 2,
       "portrait": "0177.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -4538,8 +4616,8 @@ const user_dataset = `{
       "l1_lng": "114.2511820793152",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.28916336107439",
+      "l2_lng": "114.1367268562317",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -4579,7 +4657,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "178": {
       "name": "Poon Yiu Wing",
@@ -4637,7 +4716,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "179": {
       "name": "WONG LUI SHEK",
@@ -4695,7 +4775,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "180": {
       "name": "盧雋逸",
@@ -4753,7 +4834,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "181": {
       "name": "陸藝允",
@@ -4811,16 +4893,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "182": {
       "name": "黃何耀",
       "district": "總部(銀禧區)",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 182,
-      "level": 1,
+      "level": 2,
       "portrait": "0182.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -4828,8 +4911,8 @@ const user_dataset = `{
       "l1_lng": "114.25114989280702",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.233816902333686",
+      "l2_lng": "114.17224466800691",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -4869,16 +4952,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "183": {
       "name": "Cheung Wang Kong",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 183,
-      "level": 1,
+      "level": 2,
       "portrait": "0183.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -4886,8 +4970,8 @@ const user_dataset = `{
       "l1_lng": "114.20210246084028",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.238741785041324",
+      "l2_lng": "114.16937470436096",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -4927,7 +5011,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "184": {
       "name": "何健楓",
@@ -4985,16 +5070,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "185": {
       "name": "簡懷恩",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 185,
-      "level": 1,
+      "level": 2,
       "portrait": "0185.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -5002,8 +5088,8 @@ const user_dataset = `{
       "l1_lng": "114.2293897970376",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.264233876974377",
+      "l2_lng": "114.16133880615234",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -5043,7 +5129,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "186": {
       "name": "陳嘉明",
@@ -5101,7 +5188,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "187": {
       "name": "曾柏祺",
@@ -5159,16 +5247,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "188": {
       "name": "Lucas Wong =]",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 188,
-      "level": 1,
+      "level": 2,
       "portrait": "0188a.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -5176,8 +5265,8 @@ const user_dataset = `{
       "l1_lng": "114.21846985816957",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.269146240442463",
+      "l2_lng": "114.13955926895143",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -5217,7 +5306,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "189": {
       "name": "林舉聖",
@@ -5275,7 +5365,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "190": {
       "name": "羅俊昊",
@@ -5333,7 +5424,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "191": {
       "name": "劉俊余",
@@ -5391,7 +5483,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "192": {
       "name": "張芯悦",
@@ -5449,16 +5542,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "193": {
       "name": "CHOW Man Chung",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 193,
-      "level": 1,
+      "level": 2,
       "portrait": "0193.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -5466,8 +5560,8 @@ const user_dataset = `{
       "l1_lng": "114.23493862152101",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.269019565867065",
+      "l2_lng": "114.16140317916872",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -5507,7 +5601,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "194": {
       "name": "Siu Hoi Wun , venus",
@@ -5565,7 +5660,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "195": {
       "name": "Tang Kin Man",
@@ -5623,7 +5719,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "196": {
       "name": "劉嘉琪",
@@ -5681,7 +5778,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "197": {
       "name": "李捷",
@@ -5739,7 +5837,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "198": {
       "name": "鄺靖鈞",
@@ -5797,7 +5896,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "199": {
       "name": "盧施予",
@@ -5855,7 +5955,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "200": {
       "name": "Eric Choi Chun Yin",
@@ -5913,16 +6014,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "201": {
       "name": "曾焯榆",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 201,
-      "level": 1,
+      "level": 2,
       "portrait": "0201.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -5930,8 +6032,8 @@ const user_dataset = `{
       "l1_lng": "114.2130732536316",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.274091881571866",
+      "l2_lng": "114.14499878883363",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -5971,16 +6073,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "202": {
       "name": "LI YT",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 202,
-      "level": 1,
+      "level": 2,
       "portrait": "0202.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -5988,8 +6091,8 @@ const user_dataset = `{
       "l1_lng": "114.21044468879701",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.279056244753995",
+      "l2_lng": "114.18335437774658",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -6029,7 +6132,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "203": {
       "name": "Fung Wai Sze",
@@ -6087,7 +6191,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "204": {
       "name": "LUI CHI SHUN",
@@ -6145,7 +6250,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "205": {
       "name": "馮志豪",
@@ -6203,16 +6309,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "206": {
       "name": "Lau Siu Ming",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 206,
-      "level": 1,
+      "level": 2,
       "portrait": "0206.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -6220,8 +6327,8 @@ const user_dataset = `{
       "l1_lng": "114.25675034523012",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.263915862097335",
+      "l2_lng": "114.16670322418214",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -6261,16 +6368,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "207": {
       "name": "凌玉衡",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 207,
-      "level": 1,
+      "level": 2,
       "portrait": "0207.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -6278,8 +6386,8 @@ const user_dataset = `{
       "l1_lng": "114.20485496520998",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.289562884005186",
+      "l2_lng": "114.15035247802736",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -6319,7 +6427,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "208": {
       "name": "Leung Yiu Wai",
@@ -6377,7 +6486,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "209": {
       "name": "Laura Lo",
@@ -6435,7 +6545,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "210": {
       "name": "Li Hoi Kuen",
@@ -6493,7 +6604,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "211": {
       "name": "Ben Lo",
@@ -6551,7 +6663,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "212": {
       "name": "張俊彥",
@@ -6609,7 +6722,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "213": {
       "name": "Ng Wai Kee Ricky",
@@ -6667,7 +6781,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "214": {
       "name": "陳晶",
@@ -6725,7 +6840,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "215": {
       "name": "Derek Chan",
@@ -6783,7 +6899,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "216": {
       "name": "周淑儀",
@@ -6841,7 +6958,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "217": {
       "name": "鄧志輝",
@@ -6899,7 +7017,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "218": {
       "name": "譚嘉輝",
@@ -6957,7 +7076,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "219": {
       "name": "Lau Cheuk Pan",
@@ -7015,7 +7135,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "220": {
       "name": "Chan Chau Yuk Cheryl",
@@ -7073,7 +7194,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "221": {
       "name": "Chris Wong",
@@ -7131,7 +7253,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "222": {
       "name": "So Kwok Leung",
@@ -7189,16 +7312,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "223": {
       "name": "陳敏華",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 223,
-      "level": 1,
+      "level": 2,
       "portrait": "0223.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -7206,8 +7330,8 @@ const user_dataset = `{
       "l1_lng": "114.20215334488604",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.24129310280502",
+      "l2_lng": "114.19127225875856",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -7247,7 +7371,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "224": {
       "name": "Anthony Yuen",
@@ -7305,7 +7430,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "225": {
       "name": "林添暉",
@@ -7363,7 +7489,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "226": {
       "name": "CHAN CHIU MING",
@@ -7421,7 +7548,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "227": {
       "name": "Lee Pui Fun",
@@ -7479,7 +7607,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "228": {
       "name": "Poon ming chu",
@@ -7537,16 +7666,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "229": {
       "name": "Wong Wai on",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 229,
-      "level": 1,
+      "level": 2,
       "portrait": "0229.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -7554,8 +7684,8 @@ const user_dataset = `{
       "l1_lng": "114.232234954834",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.24894412910528",
+      "l2_lng": "114.16689634323122",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -7595,7 +7725,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "230": {
       "name": "MW Ip sir",
@@ -7653,7 +7784,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "231": {
       "name": "吳樹楓",
@@ -7711,7 +7843,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "232": {
       "name": "鄺煒程",
@@ -7769,7 +7902,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "233": {
       "name": "Ngai Chi San",
@@ -7827,7 +7961,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "234": {
       "name": "李子喬",
@@ -7885,7 +8020,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "235": {
       "name": "Sam Ning",
@@ -7943,16 +8079,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "236": {
       "name": "蔡沛晴",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 236,
-      "level": 1,
+      "level": 2,
       "portrait": "0236.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -7960,8 +8097,8 @@ const user_dataset = `{
       "l1_lng": "114.23495431237825",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.269116639327308",
+      "l2_lng": "114.19127225875856",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -8001,7 +8138,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "237": {
       "name": "Chan siu bun Ben",
@@ -8059,7 +8197,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "238": {
       "name": "Chung Yuen Man",
@@ -8117,7 +8256,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "239": {
       "name": "Chan Sin Man",
@@ -8175,16 +8315,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "240": {
       "name": "陳嘉華",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 240,
-      "level": 1,
+      "level": 2,
       "portrait": "0240.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -8192,8 +8333,8 @@ const user_dataset = `{
       "l1_lng": "114.24582839012146",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.24158762364294",
+      "l2_lng": "114.15054962038997",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -8233,7 +8374,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "241": {
       "name": "陳駿賢",
@@ -8291,7 +8433,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "242": {
       "name": "邱慧敏 Yau Wai Man",
@@ -8349,7 +8492,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "243": {
       "name": "范敬謙",
@@ -8407,7 +8551,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "244": {
       "name": "陳懿樂",
@@ -8465,7 +8610,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "245": {
       "name": "黃敏婷",
@@ -8523,7 +8669,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "246": {
       "name": "Chris Wong",
@@ -8581,7 +8728,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "247": {
       "name": "馬子喬",
@@ -8639,7 +8787,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "248": {
       "name": "Joanne Kwok",
@@ -8697,16 +8846,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "249": {
       "name": "Lee tung",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 249,
-      "level": 1,
+      "level": 2,
       "portrait": "0249.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -8714,8 +8864,8 @@ const user_dataset = `{
       "l1_lng": "114.2566752433777",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.289267172269927",
+      "l2_lng": "114.16137099266052",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -8755,7 +8905,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "250": {
       "name": "葉志光",
@@ -8813,7 +8964,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "251": {
       "name": "張翰溮",
@@ -8871,7 +9023,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "252": {
       "name": "黃燁堂",
@@ -8929,7 +9082,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "253": {
       "name": "CHAN Ping-hoi",
@@ -8987,7 +9141,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "254": {
       "name": "陳詠妍",
@@ -9045,7 +9200,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "255": {
       "name": "Vonnie yip",
@@ -9103,7 +9259,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "256": {
       "name": "瞿詠",
@@ -9161,16 +9318,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "257": {
       "name": "陳芍霖",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 257,
-      "level": 1,
+      "level": 2,
       "portrait": "0257.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -9178,8 +9336,8 @@ const user_dataset = `{
       "l1_lng": "114.20769754884532",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.27162215243484",
+      "l2_lng": "114.16677832603456",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -9219,7 +9377,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "258": {
       "name": "Tsui Hei Man",
@@ -9277,7 +9436,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "259": {
       "name": "Tam Wai Wah Vivian",
@@ -9335,16 +9495,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "260": {
       "name": "莫梓言",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 260,
-      "level": 1,
+      "level": 2,
       "portrait": "0260.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -9352,8 +9513,8 @@ const user_dataset = `{
       "l1_lng": "114.19672250747682",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.286772270272518",
+      "l2_lng": "114.13407146930696",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -9393,7 +9554,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "261": {
       "name": "李耀文",
@@ -9451,7 +9613,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "262": {
       "name": "Kwok Tak yee",
@@ -9509,7 +9672,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "263": {
       "name": "區永豪",
@@ -9567,7 +9731,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "264": {
       "name": "Queenie Ng",
@@ -9625,7 +9790,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "265": {
       "name": "吳和來",
@@ -9683,7 +9849,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "266": {
       "name": "Tsang Tsz Wai Krystal",
@@ -9741,7 +9908,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "267": {
       "name": "Eric Choi MW,",
@@ -9799,7 +9967,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "268": {
       "name": "TSANG Wing Hong",
@@ -9857,7 +10026,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "269": {
       "name": "張健浩",
@@ -9915,16 +10085,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "270": {
       "name": "CHAN CHI WA",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 270,
-      "level": 1,
+      "level": 2,
       "portrait": "0270.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -9932,8 +10103,8 @@ const user_dataset = `{
       "l1_lng": "114.25417006015779",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.256341895231298",
+      "l2_lng": "114.18871074914935",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -9973,7 +10144,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "271": {
       "name": "羅漢汶",
@@ -10031,7 +10203,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "272": {
       "name": "李佩珊",
@@ -10089,16 +10262,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "273": {
       "name": "余天成",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 273,
-      "level": 1,
+      "level": 2,
       "portrait": "0273.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -10106,8 +10280,8 @@ const user_dataset = `{
       "l1_lng": "114.25406813621522",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.266597217428906",
+      "l2_lng": "114.15066897869112",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -10147,16 +10321,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "274": {
       "name": "Tsang Lai Ping",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 274,
-      "level": 1,
+      "level": 2,
       "portrait": "0274.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -10164,8 +10339,8 @@ const user_dataset = `{
       "l1_lng": "114.22127008438112",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.261621661606274",
+      "l2_lng": "114.18325781822206",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -10205,7 +10380,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "275": {
       "name": "鄧俊軒",
@@ -10263,7 +10439,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "276": {
       "name": "郭雅茵",
@@ -10321,7 +10498,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "277": {
       "name": "CHAN CHI WA",
@@ -10379,7 +10557,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "278": {
       "name": "劉斯琪LAU C-KI",
@@ -10437,7 +10616,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "279": {
       "name": "Ng Suk Ling",
@@ -10495,7 +10675,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "280": {
       "name": "洪立緯",
@@ -10553,7 +10734,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "281": {
       "name": "鄭俊榮",
@@ -10611,7 +10793,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "282": {
       "name": "tse yiu cho",
@@ -10669,7 +10852,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "283": {
       "name": "Wong Shue Bun",
@@ -10727,7 +10911,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "284": {
       "name": "鄧志遠",
@@ -10785,7 +10970,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "285": {
       "name": "鍾昌運",
@@ -10843,16 +11029,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "286": {
       "name": "謝耀明",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 286,
-      "level": 1,
+      "level": 2,
       "portrait": "0286.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -10860,8 +11047,8 @@ const user_dataset = `{
       "l1_lng": "114.2130357027054",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.28182292236576",
+      "l2_lng": "114.12310123443605",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -10901,7 +11088,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "287": {
       "name": "陳偉民",
@@ -10959,7 +11147,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "288": {
       "name": "陳誠業",
@@ -11017,7 +11206,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "289": {
       "name": "昊霖",
@@ -11075,7 +11265,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "290": {
       "name": "Tam Savio",
@@ -11133,16 +11324,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "291": {
       "name": "余天成",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 291,
-      "level": 1,
+      "level": 2,
       "portrait": "0291.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -11150,8 +11342,8 @@ const user_dataset = `{
       "l1_lng": "114.21581983566286",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.276555715364",
+      "l2_lng": "114.16144609451295",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -11191,7 +11383,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "292": {
       "name": "Wong Ho Kwan",
@@ -11249,16 +11442,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "293": {
       "name": "Fung Yun Lam",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 293,
-      "level": 1,
+      "level": 2,
       "portrait": "0293.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -11266,8 +11460,8 @@ const user_dataset = `{
       "l1_lng": "114.20775099657479",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.2715911994996",
+      "l2_lng": "114.1776466369629",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -11307,7 +11501,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "294": {
       "name": "Henry Fai",
@@ -11365,7 +11560,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "295": {
       "name": "李玥妍",
@@ -11423,7 +11619,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "296": {
       "name": "陳遴兆",
@@ -11481,16 +11678,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "297": {
       "name": "鄭晉燊",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 297,
-      "level": 1,
+      "level": 2,
       "portrait": "0297.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -11498,8 +11696,8 @@ const user_dataset = `{
       "l1_lng": "114.24319446086884",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.274132394275686",
+      "l2_lng": "114.1832122206688",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -11539,7 +11737,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "298": {
       "name": "彭凱亭",
@@ -11597,16 +11796,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "299": {
       "name": "Sam KWAN",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 299,
-      "level": 1,
+      "level": 2,
       "portrait": "0299.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -11614,8 +11814,8 @@ const user_dataset = `{
       "l1_lng": "114.22397375106813",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.276571791052895",
+      "l2_lng": "114.1231495141983",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -11655,7 +11855,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "300": {
       "name": "周曉彤",
@@ -11713,16 +11914,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "301": {
       "name": "Carol Lau",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 301,
-      "level": 1,
+      "level": 2,
       "portrait": "0301.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -11730,8 +11932,8 @@ const user_dataset = `{
       "l1_lng": "114.20486569404603",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.23627462766117",
+      "l2_lng": "114.15582954883577",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -11771,16 +11973,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "302": {
       "name": "謝梓晞",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 302,
-      "level": 1,
+      "level": 2,
       "portrait": "0302.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -11788,8 +11991,8 @@ const user_dataset = `{
       "l1_lng": "114.20502624940127",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.266503975387984",
+      "l2_lng": "114.17779147624971",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -11829,16 +12032,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "303": {
       "name": "譚嘉晞Phoebe Tam",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 303,
-      "level": 1,
+      "level": 2,
       "portrait": "0303.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -11846,8 +12050,8 @@ const user_dataset = `{
       "l1_lng": "114.24314618110658",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.256614531479578",
+      "l2_lng": "114.13960218429567",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -11887,7 +12091,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "304": {
       "name": "勞依琳",
@@ -11945,7 +12150,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "305": {
       "name": "Florine FUNG",
@@ -12003,7 +12209,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "306": {
       "name": "Matthew Chik",
@@ -12061,16 +12268,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "307": {
       "name": "容曼華",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 307,
-      "level": 1,
+      "level": 2,
       "portrait": "0307.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -12078,8 +12286,8 @@ const user_dataset = `{
       "l1_lng": "114.24586538312727",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.253946981639128",
+      "l2_lng": "114.14774537086487",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -12119,16 +12327,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "308": {
       "name": "蘇雪英",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 308,
-      "level": 1,
+      "level": 2,
       "portrait": "0308.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -12136,8 +12345,8 @@ const user_dataset = `{
       "l1_lng": "114.20783758163454",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.266725507650282",
+      "l2_lng": "114.18581128120424",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -12177,7 +12386,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "309": {
       "name": "麥偉雄",
@@ -12235,16 +12445,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "310": {
       "name": "Man Kok Wai",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 310,
-      "level": 1,
+      "level": 2,
       "portrait": "0310.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -12252,8 +12463,8 @@ const user_dataset = `{
       "l1_lng": "114.21571254730226",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.281744054658965",
+      "l2_lng": "114.161274433136",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -12293,16 +12504,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "311": {
       "name": "Ling Kay Kau",
       "district": "總部(銀禧區)",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 311,
-      "level": 1,
+      "level": 2,
       "portrait": "0311.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -12310,8 +12522,8 @@ const user_dataset = `{
       "l1_lng": "114.22390937805177",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.248972756767067",
+      "l2_lng": "114.18848276138307",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -12351,25 +12563,26 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "312": {
       "name": "Gul MOHAMMAD",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 0,
-      "non_developed": 12,
+      "developed": 2,
+      "non_developed": 11,
       "c_code": 312,
-      "level": 0,
+      "level": 2,
       "portrait": "0312.jpg",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "",
-      "l1_lng": "",
+      "l1_lan": "22.264185767454485",
+      "l1_lng": "114.172260761261",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.279416184890078",
+      "l2_lng": "114.13959145545961",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -12409,7 +12622,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "313": {
       "name": "Ho Chi Man",
@@ -12467,7 +12681,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "314": {
       "name": "鍾嘉雯",
@@ -12525,7 +12740,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "315": {
       "name": "黎清儀",
@@ -12583,16 +12799,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "316": {
       "name": "Tony Ng",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 316,
-      "level": 1,
+      "level": 2,
       "portrait": "0316.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -12600,8 +12817,8 @@ const user_dataset = `{
       "l1_lng": "114.20775175094604",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.279193562658",
+      "l2_lng": "114.18857932090759",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -12641,7 +12858,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "317": {
       "name": "Patrick Choy",
@@ -12699,7 +12917,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "318": {
       "name": "鍾瑋顏",
@@ -12757,7 +12976,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "319": {
       "name": "黎富根",
@@ -12815,7 +13035,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "320": {
       "name": "Lee Wing Kwong Raymond",
@@ -12873,7 +13094,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "321": {
       "name": "梁子健（LEUNG TSZ KIN)",
@@ -12931,7 +13153,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "322": {
       "name": "譚偉才",
@@ -12989,7 +13212,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "323": {
       "name": "岑欣穎",
@@ -13047,7 +13271,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "324": {
       "name": "黃珈銘",
@@ -13105,7 +13330,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "325": {
       "name": "Chan Wing Han",
@@ -13163,7 +13389,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "326": {
       "name": "梁心澄",
@@ -13221,16 +13448,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "327": {
       "name": "Ip Ka Wun",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 327,
-      "level": 1,
+      "level": 2,
       "portrait": "0327.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -13238,8 +13466,8 @@ const user_dataset = `{
       "l1_lng": "114.20489788055421",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.27425357412634",
+      "l2_lng": "114.19158875942232",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -13279,7 +13507,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "328": {
       "name": "徐嘉維",
@@ -13337,7 +13566,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "329": {
       "name": "黃文迪",
@@ -13395,7 +13625,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "330": {
       "name": "梁榮燊",
@@ -13453,7 +13684,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "331": {
       "name": "Lam Tsz Fun",
@@ -13511,16 +13743,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "332": {
       "name": "譚奕軒",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 332,
-      "level": 1,
+      "level": 2,
       "portrait": "0332.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -13528,8 +13761,8 @@ const user_dataset = `{
       "l1_lng": "114.22420052935196",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.271667904349062",
+      "l2_lng": "114.15601730346681",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -13569,7 +13802,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "333": {
       "name": "黃穎蓁",
@@ -13627,7 +13861,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "334": {
       "name": "Bernard Lee",
@@ -13685,7 +13920,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "335": {
       "name": "Kathy WONG",
@@ -13743,7 +13979,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "336": {
       "name": "Joan Cheung",
@@ -13801,7 +14038,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "337": {
       "name": "黎蕊萍",
@@ -13859,7 +14097,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "338": {
       "name": "崔文豪",
@@ -13917,7 +14156,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "339": {
       "name": "邵令聰",
@@ -13975,7 +14215,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "340": {
       "name": "張皓添",
@@ -14033,16 +14274,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "341": {
       "name": "劉日熙",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 341,
-      "level": 1,
+      "level": 2,
       "portrait": "0341.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -14050,8 +14292,8 @@ const user_dataset = `{
       "l1_lng": "114.21845912933351",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.28160010370237",
+      "l2_lng": "114.15570080280305",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -14091,7 +14333,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "342": {
       "name": "庾霆鏗",
@@ -14149,7 +14392,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "343": {
       "name": "關浩然",
@@ -14207,7 +14451,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "344": {
       "name": "伍葆進",
@@ -14265,7 +14510,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "345": {
       "name": "Sally Cheung",
@@ -14323,7 +14569,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "346": {
       "name": "Simon Law",
@@ -14381,7 +14628,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "347": {
       "name": "chiu pui sze",
@@ -14439,7 +14687,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "348": {
       "name": "LEUNG YIU KWONG",
@@ -14497,7 +14746,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "349": {
       "name": "Lau Wai Keung",
@@ -14555,7 +14805,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "350": {
       "name": "梁子雲",
@@ -14613,7 +14864,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "351": {
       "name": "何德文",
@@ -14671,7 +14923,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "352": {
       "name": "莫海瀅 MOK HOI YING",
@@ -14729,7 +14982,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "353": {
       "name": "Ng Kwok Hei",
@@ -14787,7 +15041,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "354": {
       "name": "NG WING CHEUK",
@@ -14845,7 +15100,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "355": {
       "name": "楊卓瀚",
@@ -14903,7 +15159,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "356": {
       "name": "Wong Pong Chuen 黃邦銓",
@@ -14961,7 +15218,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "357": {
       "name": "劉景生",
@@ -15019,16 +15277,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "358": {
       "name": "郭曉彤",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 358,
-      "level": 1,
+      "level": 2,
       "portrait": "0358.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -15036,8 +15295,8 @@ const user_dataset = `{
       "l1_lng": "114.21064853668214",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.256650611453686",
+      "l2_lng": "114.18327927589418",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -15077,7 +15336,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "359": {
       "name": "Kau Man wai",
@@ -15135,16 +15395,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "360": {
       "name": "Bonnie Leung",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 0,
+      "developed": 2,
       "non_developed": 12,
       "c_code": 360,
-      "level": 0,
+      "level": 2,
       "portrait": "0360.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -15152,8 +15413,8 @@ const user_dataset = `{
       "l1_lng": "114.23504167759349",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.25667373817807",
+      "l2_lng": "114.15332973003389",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -15193,7 +15454,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "361": {
       "name": "Kwok Chi Kit",
@@ -15251,7 +15513,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "362": {
       "name": "馮興榆",
@@ -15309,7 +15572,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "363": {
       "name": "鄧偉強",
@@ -15367,7 +15631,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "364": {
       "name": "Lo Pui Lam",
@@ -15425,7 +15690,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "365": {
       "name": "ha wai fan",
@@ -15483,7 +15749,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "366": {
       "name": "Ho Wai Keung ",
@@ -15541,7 +15808,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "367": {
       "name": "梁正韜",
@@ -15599,7 +15867,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "368": {
       "name": "Kwan Kee",
@@ -15657,7 +15926,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "369": {
       "name": "黃耀榮",
@@ -15715,7 +15985,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "370": {
       "name": "cato shum",
@@ -15773,16 +16044,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "371": {
       "name": "袁銘澤",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 371,
-      "level": 1,
+      "level": 2,
       "portrait": "0371.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -15790,8 +16062,8 @@ const user_dataset = `{
       "l1_lng": "114.21325564384462",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.271646006567853",
+      "l2_lng": "114.13151800632477",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -15831,7 +16103,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "372": {
       "name": "梁桀朗",
@@ -15889,7 +16162,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "373": {
       "name": "Chan Ka Man",
@@ -15947,7 +16221,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "374": {
       "name": "Wong Iek Kei",
@@ -16005,7 +16280,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "375": {
       "name": "Wu Cheok Wang",
@@ -16063,7 +16339,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "376": {
       "name": "鄭穎曦",
@@ -16121,7 +16398,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "377": {
       "name": "余建樂",
@@ -16179,7 +16457,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "378": {
       "name": "Dave Cheung",
@@ -16237,7 +16516,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "379": {
       "name": "Chan Wan Ting",
@@ -16295,7 +16575,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "380": {
       "name": "Lau Lai Yuen",
@@ -16353,7 +16634,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "381": {
       "name": "蔡志輝",
@@ -16411,7 +16693,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "382": {
       "name": "汪承甫",
@@ -16469,16 +16752,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "383": {
       "name": "Mr. Jaktarn Mathaveechotikul (Gai)",
       "district": "海外",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 383,
-      "level": 1,
+      "level": 2,
       "portrait": "0383.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -16486,8 +16770,8 @@ const user_dataset = `{
       "l1_lng": "114.23244953155519",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.26167236227996",
+      "l2_lng": "114.19146537780763",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -16527,7 +16811,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "384": {
       "name": "James Tsui",
@@ -16585,7 +16870,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "385": {
       "name": "Abontika Sultana",
@@ -16643,7 +16929,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "386": {
       "name": "Ron Ip",
@@ -16701,7 +16988,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "387": {
       "name": "Amilie Fung",
@@ -16759,21 +17047,22 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "388": {
       "name": "Ching Chin Yan Carmen",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 0,
-      "non_developed": 12,
+      "developed": 1,
+      "non_developed": 11,
       "c_code": 388,
-      "level": 0,
+      "level": 1,
       "portrait": "0388.jpg",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "",
-      "l1_lng": "",
+      "l1_lan": "22.28173614236853",
+      "l1_lng": "114.16940689086915",
       "l2_code": "",
       "l2_size": "",
       "l2_lan": "",
@@ -16817,7 +17106,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "389": {
       "name": "Chong Chong Heng",
@@ -16875,7 +17165,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "390": {
       "name": "張澤耀",
@@ -16933,7 +17224,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "391": {
       "name": "Wong Ka Yan",
@@ -16991,7 +17283,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "392": {
       "name": "曾敬熙",
@@ -17049,7 +17342,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "393": {
       "name": "LI Tze Ming",
@@ -17107,7 +17401,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "394": {
       "name": "Sin Hin Ting Milton",
@@ -17165,7 +17460,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "395": {
       "name": "馬子一",
@@ -17223,7 +17519,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "396": {
       "name": "Chris Tam",
@@ -17281,7 +17578,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "397": {
       "name": "陳振達",
@@ -17339,7 +17637,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "398": {
       "name": "Choy Tsz Kin Ellesmere",
@@ -17397,7 +17696,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "399": {
       "name": "Benny Lam",
@@ -17455,7 +17755,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "400": {
       "name": "TSE WING YIN",
@@ -17513,7 +17814,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "401": {
       "name": "茹子豪",
@@ -17571,7 +17873,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "402": {
       "name": "茹子朗",
@@ -17629,7 +17932,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "403": {
       "name": "葉穗倫",
@@ -17687,7 +17991,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "404": {
       "name": "Chan Tsz Yin",
@@ -17745,7 +18050,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "405": {
       "name": "馮鋭明",
@@ -17803,7 +18109,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "406": {
       "name": "胡志偉WU CHI WAI",
@@ -17861,7 +18168,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "407": {
       "name": "曾偉雄",
@@ -17919,16 +18227,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "408": {
       "name": "Yuen wai man",
       "district": "九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 408,
-      "level": 1,
+      "level": 2,
       "portrait": "0408.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -17936,8 +18245,8 @@ const user_dataset = `{
       "l1_lng": "114.24861788749695",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.249014076787862",
+      "l2_lng": "114.14503097534181",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -17977,7 +18286,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "409": {
       "name": "陳錦昌",
@@ -18035,7 +18345,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "410": {
       "name": "葉志成",
@@ -18093,7 +18404,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "411": {
       "name": "Tsui Ka LING Maggie",
@@ -18151,7 +18463,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "412": {
       "name": "Lam wai yin",
@@ -18209,16 +18522,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "413": {
       "name": "TAM CHIU HUNG",
       "district": "總部(銀禧區)",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 413,
-      "level": 1,
+      "level": 2,
       "portrait": "0413.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -18226,8 +18540,8 @@ const user_dataset = `{
       "l1_lng": "114.22641911009126",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.251222952491958",
+      "l2_lng": "114.15307760238649",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -18267,7 +18581,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "414": {
       "name": "侯家宇 Scott Hau",
@@ -18325,7 +18640,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "415": {
       "name": "Herman CHAN 陳健明",
@@ -18383,7 +18699,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "416": {
       "name": "Ng Ching",
@@ -18441,7 +18758,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "417": {
       "name": "林志明",
@@ -18499,7 +18817,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "418": {
       "name": "陳頌祺",
@@ -18557,7 +18876,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "419": {
       "name": "Peter Leung",
@@ -18615,7 +18935,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "420": {
       "name": "lau chi wai 劉志偉",
@@ -18673,7 +18994,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "421": {
       "name": "Cheung Aris Lee Shan",
@@ -18731,16 +19053,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "422": {
       "name": "鄭曉嵐",
       "district": "海外",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 422,
-      "level": 1,
+      "level": 2,
       "portrait": "0422.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -18748,8 +19071,8 @@ const user_dataset = `{
       "l1_lng": "114.25125718116762",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.266459177691782",
+      "l2_lng": "114.16947126388551",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -18789,7 +19112,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "423": {
       "name": "袁志偉",
@@ -18847,7 +19171,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "424": {
       "name": "Tsang Wai Ying Trista",
@@ -18905,7 +19230,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "425": {
       "name": "Gary wong Hong Yiu 黃康耀",
@@ -18963,7 +19289,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "426": {
       "name": "Leung Wai Hung",
@@ -19021,7 +19348,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "427": {
       "name": "Edward Loh",
@@ -19079,7 +19407,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "428": {
       "name": "Mandy Leung",
@@ -19137,7 +19466,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "429": {
       "name": "羅卓華",
@@ -19195,16 +19525,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "430": {
       "name": "王賡哲",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 430,
-      "level": 1,
+      "level": 2,
       "portrait": "0430.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -19212,8 +19543,8 @@ const user_dataset = `{
       "l1_lng": "114.23749208450319",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.261384619256724",
+      "l2_lng": "114.1476595401764",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -19253,7 +19584,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "431": {
       "name": "Evita LEE",
@@ -19311,7 +19643,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "432": {
       "name": "Annika Li",
@@ -19369,7 +19702,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "433": {
       "name": "Gik Yu Ki",
@@ -19427,7 +19761,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "434": {
       "name": "TAM CHIU HUNG",
@@ -19485,16 +19820,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "435": {
       "name": "Siu Tsun Hung Victor",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 0,
+      "developed": 2,
       "non_developed": 12,
       "c_code": 435,
-      "level": 0,
+      "level": 2,
       "portrait": "0435.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -19502,8 +19838,8 @@ const user_dataset = `{
       "l1_lng": "114.22130763530733",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.259082156469738",
+      "l2_lng": "114.15867269039155",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -19543,7 +19879,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "436": {
       "name": "Harry Ng",
@@ -19601,7 +19938,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "437": {
       "name": "李靖 Li Ching",
@@ -19659,7 +19997,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "438": {
       "name": "fung chun hung",
@@ -19717,7 +20056,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "439": {
       "name": "Kenny Ho",
@@ -19775,7 +20115,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "440": {
       "name": "Harry KWONG Hok Lai",
@@ -19833,7 +20174,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "441": {
       "name": "何國龍",
@@ -19891,7 +20233,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "442": {
       "name": "陳安定",
@@ -19949,7 +20292,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "443": {
       "name": "Wong Chun Keung Alex",
@@ -20007,7 +20351,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "445": {
       "name": "So Tung Shing",
@@ -20065,7 +20410,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "446": {
       "name": "朱沛霖",
@@ -20123,16 +20469,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "447": {
       "name": "Jeffrey Ho",
       "district": "海外",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 447,
-      "level": 1,
+      "level": 2,
       "portrait": "0447.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -20140,8 +20487,8 @@ const user_dataset = `{
       "l1_lng": "114.25113916397096",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.26159355247637",
+      "l2_lng": "114.14772391319275",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -20181,7 +20528,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "448": {
       "name": "LEUNG MAN LAI EDRIC",
@@ -20239,7 +20587,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "449": {
       "name": "余永健",
@@ -20297,7 +20646,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "450": {
       "name": "Stephen Wat",
@@ -20355,16 +20705,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "451": {
       "name": "黃靖瑤 Wong Ching Yiu",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 451,
-      "level": 1,
+      "level": 2,
       "portrait": "0451.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -20372,8 +20723,8 @@ const user_dataset = `{
       "l1_lng": "114.2023015022278",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.236346931794696",
+      "l2_lng": "114.18575763702394",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -20413,16 +20764,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "452": {
       "name": "黃浩天 Wong Ho Tin",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 452,
-      "level": 1,
+      "level": 2,
       "portrait": "0452.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -20430,8 +20782,8 @@ const user_dataset = `{
       "l1_lng": "114.20483350753786",
       "l2_code": "",
       "l2_size": "",
-      "l2_lan": "",
-      "l2_lng": "",
+      "l2_lan": "22.233808959630174",
+      "l2_lng": "114.18875098228456",
       "l3_code": "",
       "l3_size": "",
       "l3_lan": "",
@@ -20471,7 +20823,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "453": {
       "name": "鄭偉倫",
@@ -20529,7 +20882,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "454": {
       "name": "CHAN WILLIN",
@@ -20587,7 +20941,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "455": {
       "name": "李昀霖 ",
@@ -20645,7 +21000,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "456": {
       "name": "徐洭翹",
@@ -20703,7 +21059,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "457": {
       "name": "梁綺雯",
@@ -20761,7 +21118,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "458": {
       "name": "薛衞東",
@@ -20819,7 +21177,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "459": {
       "name": "陳景堯",
@@ -20877,7 +21236,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "460": {
       "name": "陳沚彤",
@@ -20935,7 +21295,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "461": {
       "name": "陳梓舜",
@@ -20993,7 +21354,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "462": {
       "name": "Lam Cheuk Yin , chester",
@@ -21051,7 +21413,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "463": {
       "name": "YEUNG CHIN",
@@ -21109,7 +21472,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "464": {
       "name": "TSANG HOI YING",
@@ -21167,7 +21531,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "465": {
       "name": "羅國彰",
@@ -21225,7 +21590,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "466": {
       "name": "Tse Pak Yue",
@@ -21283,7 +21649,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "467": {
       "name": "廖嘉文",
@@ -21341,7 +21708,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "468": {
       "name": "聶浩茗",
@@ -21399,7 +21767,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "470": {
       "name": "Fork Wai Ming Raman",
@@ -21457,7 +21826,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "471": {
       "name": "Tam Chee Sing",
@@ -21515,7 +21885,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "472": {
       "name": "梁婉婷",
@@ -21573,7 +21944,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "473": {
       "name": "Cheung Wai Ting",
@@ -21631,7 +22003,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "474": {
       "name": "Claire Ng",
@@ -21689,7 +22062,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "475": {
       "name": "黃喆",
@@ -21747,7 +22121,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "476": {
       "name": "Fong Hiu Fung",
@@ -21805,7 +22180,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "477": {
       "name": "陳國生",
@@ -21863,21 +22239,22 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "478": {
       "name": "張旨潁",
       "district": "新界東地域",
       "lang": "chi",
-      "developed": 0,
-      "non_developed": 12,
+      "developed": 1,
+      "non_developed": 11,
       "c_code": 478,
-      "level": 0,
+      "level": 1,
       "portrait": "0478.jpg",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "",
-      "l1_lng": "",
+      "l1_lan": "22.28173614236853",
+      "l1_lng": "114.16940689086915",
       "l2_code": "",
       "l2_size": "",
       "l2_lan": "",
@@ -21921,7 +22298,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "479": {
       "name": "朱詠雪",
@@ -21979,7 +22357,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "480": {
       "name": "CHAN MAN PAN",
@@ -22037,7 +22416,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "481": {
       "name": "Tong Tak Wai ",
@@ -22095,7 +22475,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "482": {
       "name": "KWONG Kwok Kwong",
@@ -22153,7 +22534,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "483": {
       "name": "Chan Kwok Kiu",
@@ -22211,7 +22593,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "484": {
       "name": "李嘉明",
@@ -22269,7 +22652,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "485": {
       "name": "黃禧沂",
@@ -22327,7 +22711,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "486": {
       "name": "陳卓瑩 Chan Cheuk Ying",
@@ -22385,7 +22770,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "487": {
       "name": "吳藹桓 NG Irene",
@@ -22443,21 +22829,22 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "488": {
       "name": "Leung Hoi Kiu",
       "district": "港島地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 488,
-      "level": 1,
+      "level": 2,
       "portrait": "0488.jpg",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "22.221121037509285",
-      "l1_lng": "114.25669670104982",
+      "l1_lan": "22.281744054658965",
+      "l1_lng": "114.161274433136",
       "l2_code": "",
       "l2_size": "",
       "l2_lan": "",
@@ -22501,7 +22888,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "489": {
       "name": "董文健Sam Tung",
@@ -22559,7 +22947,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "490": {
       "name": "Billy Chan",
@@ -22617,7 +23006,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "491": {
       "name": "Kevin mak",
@@ -22675,21 +23065,22 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "492": {
       "name": "Angel FONG",
       "district": "總部(銀禧區)",
       "lang": "eng",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 492,
-      "level": 1,
+      "level": 2,
       "portrait": "0492.jpg",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "22.26161375863774",
-      "l1_lng": "114.23482060432436",
+      "l1_lan": "22.276571791052895",
+      "l1_lng": "114.1231495141983",
       "l2_code": "",
       "l2_size": "",
       "l2_lan": "",
@@ -22733,7 +23124,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "493": {
       "name": "Law Teck Chong",
@@ -22791,7 +23183,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "494": {
       "name": "胡穎聰",
@@ -22849,7 +23242,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "495": {
       "name": "黃朗",
@@ -22907,7 +23301,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "496": {
       "name": "葉靜婷",
@@ -22965,7 +23360,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "497": {
       "name": "范詠嵐",
@@ -23023,7 +23419,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "498": {
       "name": "彭蕊",
@@ -23081,7 +23478,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "499": {
       "name": "陸海",
@@ -23139,7 +23537,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "500": {
       "name": "楊旨印",
@@ -23197,7 +23596,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "501": {
       "name": "Cheung Sau Chun",
@@ -23255,21 +23655,22 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "502": {
       "name": "郭浩熙",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 0,
-      "non_developed": 12,
+      "developed": 1,
+      "non_developed": 11,
       "c_code": 502,
-      "level": 0,
+      "level": 1,
       "portrait": "0502.jpg",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "",
-      "l1_lng": "",
+      "l1_lan": "22.28173614236853",
+      "l1_lng": "114.16940689086915",
       "l2_code": "",
       "l2_size": "",
       "l2_lan": "",
@@ -23313,7 +23714,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "503": {
       "name": "Lai Kit Sum",
@@ -23371,7 +23773,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "504": {
       "name": "陳悅晞",
@@ -23429,7 +23832,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "505": {
       "name": "Ms Audrey Tang",
@@ -23487,7 +23891,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "506": {
       "name": "林承佑",
@@ -23545,7 +23950,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "507": {
       "name": "王學致",
@@ -23603,7 +24009,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "508": {
       "name": "楊庭熹",
@@ -23661,7 +24068,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "509": {
       "name": "唐嘉淇",
@@ -23719,7 +24127,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "510": {
       "name": "吳焜曜 ",
@@ -23777,7 +24186,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "511": {
       "name": "黃凱易",
@@ -23835,7 +24245,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "512": {
       "name": "彭蕊",
@@ -23893,7 +24304,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "513": {
       "name": "Ivor TSANG",
@@ -23951,7 +24363,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "514": {
       "name": "Gary Wong",
@@ -24009,7 +24422,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "515": {
       "name": "Kenneth Fung",
@@ -24067,7 +24481,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "516": {
       "name": "吳晉熙",
@@ -24125,7 +24540,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "517": {
       "name": "白偉峰",
@@ -24183,7 +24599,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "518": {
       "name": "Li Oi Man",
@@ -24241,7 +24658,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "519": {
       "name": "梁銘諾",
@@ -24299,7 +24717,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "520": {
       "name": "Mendy CHIU",
@@ -24357,7 +24776,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "521": {
       "name": "NG Wai Tsun",
@@ -24415,7 +24835,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "522": {
       "name": "廖顥舜",
@@ -24473,7 +24894,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "523": {
       "name": "蔡丞晉",
@@ -24531,7 +24953,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "524": {
       "name": "陳凱祺",
@@ -24589,7 +25012,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "525": {
       "name": "郭斯嘉",
@@ -24647,7 +25071,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "526": {
       "name": "鄧卓婷",
@@ -24705,7 +25130,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "527": {
       "name": "梁穎瑜",
@@ -24763,7 +25189,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "528": {
       "name": "郭晉熙",
@@ -24821,7 +25248,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "529": {
       "name": "羅芯怡",
@@ -24879,7 +25307,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "530": {
       "name": "葉穎思Hip Wing Sze",
@@ -24937,7 +25366,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "531": {
       "name": " Man Kit Manson Chan",
@@ -24995,7 +25425,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "532": {
       "name": "Neil Bailey",
@@ -25053,7 +25484,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "533": {
       "name": "陳品喬",
@@ -25111,7 +25543,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "534": {
       "name": "陳茗睿",
@@ -25169,7 +25602,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "535": {
       "name": "莫振昌",
@@ -25227,7 +25661,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "536": {
       "name": "YEUNG choi lam",
@@ -25285,7 +25720,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "537": {
       "name": "黃麗珊Tiffany Wong",
@@ -25343,7 +25779,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "538": {
       "name": "陳萃桸",
@@ -25401,7 +25838,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "539": {
       "name": "徐子恩",
@@ -25459,7 +25897,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "540": {
       "name": "鄧愷頤",
@@ -25517,7 +25956,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "541": {
       "name": "arianna kong",
@@ -25575,7 +26015,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "542": {
       "name": "張諾謙",
@@ -25633,7 +26074,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "543": {
       "name": "Lam Tip Chui",
@@ -25691,7 +26133,8 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "544": {
       "name": "yip man sin",
@@ -25749,21 +26192,22 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "545": {
       "name": "張蘊伶",
       "district": "東九龍地域",
       "lang": "chi",
-      "developed": 0,
-      "non_developed": 12,
+      "developed": 1,
+      "non_developed": 11,
       "c_code": 545,
-      "level": 0,
+      "level": 1,
       "portrait": "0545.jpg",
       "l1_code": "",
       "l1_size": "",
-      "l1_lan": "",
-      "l1_lng": "",
+      "l1_lan": "22.281744054658965",
+      "l1_lng": "114.161274433136",
       "l2_code": "",
       "l2_size": "",
       "l2_lan": "",
@@ -25807,16 +26251,17 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    },
    "546": {
       "name": "楊聰",
       "district": "新界地域",
       "lang": "chi",
-      "developed": 1,
-      "non_developed": 11,
+      "developed": 2,
+      "non_developed": 10,
       "c_code": 546,
-      "level": 1,
+      "level": 2,
       "portrait": "0546.jpg",
       "l1_code": "",
       "l1_size": "",
@@ -25824,6 +26269,65 @@ const user_dataset = `{
       "l1_lng": "114.21583592891695",
       "l2_code": "",
       "l2_size": "",
+      "l2_lan": "22.27651559812061",
+      "l2_lng": "114.1668748855591",
+      "l3_code": "",
+      "l3_size": "",
+      "l3_lan": "",
+      "l3_lng": "",
+      "l4_code": "",
+      "l4_size": "",
+      "l4_lan": "",
+      "l4_lng": "",
+      "l5_code": "",
+      "l5_size": "",
+      "l5_lan": "",
+      "l5_lng": "",
+      "l6_code": "",
+      "l6_size": "",
+      "l6_lan": "",
+      "l6_lng": "",
+      "l7_code": "",
+      "l7_size": "",
+      "l7_lan": "",
+      "l7_lng": "",
+      "l8_code": "",
+      "l8_size": "",
+      "l8_lan": "",
+      "l8_lng": "",
+      "l9_code": "",
+      "l9_size": "",
+      "l9_lan": "",
+      "l9_lng": "",
+      "l10_code": "",
+      "l10_size": "",
+      "l10_lan": "",
+      "l10_lng": "",
+      "l11_code": "",
+      "l11_size": "",
+      "l11_lan": "",
+      "l11_lng": "",
+      "l12_code": "",
+      "l12_size": "",
+      "l12_lan": "",
+      "l12_lng": "",
+      "總部(銀禧區)": ""
+   },
+   "547": {
+      "name": "Fung Yee Ying",
+      "district": "九龍地域",
+      "lang": "chi",
+      "developed": 1,
+      "non_developed": 10,
+      "c_code": 547,
+      "level": 1,
+      "portrait": "0547.jpg",
+      "l1_code": "",
+      "l1_size": "",
+      "l1_lan": "22.276610786858164",
+      "l1_lng": "114.17238950729372",
+      "l2_code": "",
+      "l2_size": "",
       "l2_lan": "",
       "l2_lng": "",
       "l3_code": "",
@@ -25865,6 +26369,7 @@ const user_dataset = `{
       "l12_code": "",
       "l12_size": "",
       "l12_lan": "",
-      "l12_lng": ""
+      "l12_lng": "",
+      "總部(銀禧區)": ""
    }
 }`;
