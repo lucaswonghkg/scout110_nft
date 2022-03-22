@@ -46,7 +46,8 @@ function doStuff(e) {
 var image = L.svgOverlay(svgElement, svgBounds).addTo(map);
 
 var popupLocation1 = new L.LatLng(22.198429314192992,114.29880296112971);
-var popupContent1 = '<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhkscout110%2Fposts%2F153121247106472&show_text=true&width=500" width="300" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>',
+
+var popupContent1 = "<iframe src='https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhkscout110%2Fposts%2F157879039964026&show_text=true&width=500' width='300' height='500' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share'></iframe>",
 popup1 = new L.Popup();
 popup1.setLatLng(popupLocation1);
 popup1.setContent(popupContent1);
