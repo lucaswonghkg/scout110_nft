@@ -85,7 +85,7 @@ var marker = L.marker([22.279378886458154, 114.17487859725954], {
         autoClose:false 
         }).addTo(map);
 
-          marker.bindPopup("<center><p>香港童軍百周年紀念大樓<br>Hong Kong Scout Centennial Building</p><img src='icon/Centennial.png' alt='香港童軍百周年紀念大樓' width='100' height='200'></center>",{autoClose:false}).openPopup();
+          marker.bindPopup("<center><p>香港童軍百周年紀念大樓<br>Hong Kong Scout Centennial Building</p><img src='icon/Centennial.png' alt='香港童軍百周年紀念大樓' width='182' height='275'></center>",{autoClose:false}).openPopup();
 
 var marker = L.marker([22.243890824887522, 114.22396302223207], {
         elevation: 260.0,
