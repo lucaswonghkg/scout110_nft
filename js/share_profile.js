@@ -14,7 +14,7 @@ function shareProfile(cleanInput){
   
   
   //Mobile
-    if (navigator.share) {
+    if (navigator.share & os != "PC") {
   
   if (language = 'chi'){
     navigator.share({
@@ -44,23 +44,6 @@ function shareProfile(cleanInput){
   
     } 
     //Web
-    else if (os = "PC"){
-
-    var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
-    navigator.clipboard.writeText(text).then(function() {
-
-      document.getElementById("coppyShare").innerHTML = ""
-      document.getElementById("coppyShare").innerHTML += "<div id='copypopup'>成功複製連結 <br> Link Copy Successfully </div>"
-
-
-
-
-    }, function(err) {
-      console.error('Async: Could not copy text: ', err);
-    });
-
-    }
-
     else {
 
       var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
