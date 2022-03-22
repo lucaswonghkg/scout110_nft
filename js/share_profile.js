@@ -1,3 +1,9 @@
+if (navigator.userAgent.indexOf('Mac OS X') != -1) {
+  os = "notPC"
+} else {
+  os = "PC"
+}
+
 
 function shareProfile(cleanInput){
  
@@ -38,7 +44,7 @@ function shareProfile(cleanInput){
   
     } 
     //Web
-    else {
+    else if (os = "PC"){
 
     var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
     navigator.clipboard.writeText(text).then(function() {
@@ -54,6 +60,28 @@ function shareProfile(cleanInput){
     });
 
     }
+
+    else {
+
+      var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
+      navigator.clipboard.writeText(text).then(function() {
+  
+        document.getElementById("coppyShare").innerHTML = ""
+        document.getElementById("coppyShare").innerHTML += "<div id='copypopup'>成功複製連結 <br> Link Copy Successfully </div>"
+  
+  
+  
+  
+      }, function(err) {
+        console.error('Async: Could not copy text: ', err);
+      });
+  
+      }
+
+
+
+
+
   }
   
   
