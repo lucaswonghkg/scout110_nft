@@ -1,9 +1,6 @@
-if (navigator.userAgent.indexOf('Mac OS X') != -1) {
-  os = "notPC"
-} else {
+if (navigator.userAgent.indexOf('Win') != -1) {
   os = "PC"
-}
-
+} 
 
 function shareProfile(cleanInput){
  
