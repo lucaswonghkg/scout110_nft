@@ -3,17 +3,11 @@
 // } 
 var os = "unknown"
 
-if( navigator.userAgent.match(/iPhone/i)
-|| navigator.userAgent.match(/webOS/i)
-|| navigator.userAgent.match(/Android/i)
-|| navigator.userAgent.match(/iPad/i)
-|| navigator.userAgent.match(/iPod/i)
-|| navigator.userAgent.match(/BlackBerry/i)
-|| navigator.userAgent.match(/Windows Phone/i)
-)
-{
- os = "mobile"
- }
+if(navigator.appVersion.indexOf("Windows ")!=-1){
+  os = "windows"
+}else{
+  os = navigator.platform;
+}
 
 console.log(os)
 
@@ -27,9 +21,9 @@ function shareProfile(cleanInput){
   
   
   //Mobile
-    if (navigator.share & os == "mobile") {
+    if (navigator.share) {
 
-
+      if(os != "windows"){
         if (language = 'chi'){
           navigator.share({
             title: '⚜️點擊連結，進入屬於我的110x挑戰虛擬土地🗺 🏘',
@@ -48,10 +42,38 @@ function shareProfile(cleanInput){
           })
           .catch(console.error);
         }
+      }
+      else {
+        console.log(os)
+        var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
+        navigator.clipboard.writeText(text).then(function() {
+    
+          document.getElementById("coppyShare").innerHTML = ""
+          document.getElementById("coppyShare").innerHTML += "<div id='copypopup'>成功複製連結 <br> Link Copy Successfully </div>"
+    
+    
+    
+    
+        }, function(err) {
+          console.error('Async: Could not copy text: ', err);
+        });
+    
+        }
+
+
+
+  
+
+
+
+
+
+
+
 
     } 
   
-    //Web
+    //Web 
     else {
       console.log(os)
       var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
