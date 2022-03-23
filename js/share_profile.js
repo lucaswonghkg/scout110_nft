@@ -1,6 +1,11 @@
-if (navigator.userAgent.indexOf('Win') != -1) {
-  os = "PC"
-} 
+// if (navigator.userAgent.indexOf('Win') != -1) {
+//   os = "PC"
+// } 
+
+if (isMobile.any()){
+  os = "mobile"
+}
+
 
 function shareProfile(cleanInput){
  
@@ -11,9 +16,9 @@ function shareProfile(cleanInput){
   
   
   //Mobile
-    if (navigator.share) {
+    if (navigator.share & os == "mobile") {
 
-      if(os != "PC"){
+
         if (language = 'chi'){
           navigator.share({
             title: '⚜️點擊連結，進入屬於我的110x挑戰虛擬土地🗺 🏘',
@@ -33,30 +38,8 @@ function shareProfile(cleanInput){
           .catch(console.error);
         }
 
-      }
-  
-      else {
-
-        var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
-        navigator.clipboard.writeText(text).then(function() {
-    
-          document.getElementById("coppyShare").innerHTML = ""
-          document.getElementById("coppyShare").innerHTML += "<div id='copypopup'>成功複製連結 <br> Link Copy Successfully </div>"
-    
-    
-    
-    
-        }, function(err) {
-          console.error('Async: Could not copy text: ', err);
-        });
-    
-        }
-    
-  
-  
-  
-  
     } 
+  
     //Web
     else {
 
