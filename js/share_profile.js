@@ -1,10 +1,13 @@
 // if (navigator.userAgent.indexOf('Win') != -1) {
 //   os = "PC"
 // } 
+var os = "unknown"
 
 if (isMobile.any()){
-  os = "mobile"
+ os = "mobile"
 }
+
+console.log(os)
 
 
 function shareProfile(cleanInput){
@@ -42,7 +45,7 @@ function shareProfile(cleanInput){
   
     //Web
     else {
-
+      console.log(os)
       var text = 'https://hkscout110.scout.org.hk/metaverse/?userid='+cleanInput;
       navigator.clipboard.writeText(text).then(function() {
   
