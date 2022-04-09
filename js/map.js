@@ -8,6 +8,7 @@ svgElement.setAttribute('id', "map-grid");
 svgElement.innerHTML += svgString;
 svgElement.innerHTML += hkiOne;
 svgElement.innerHTML += hkiTwo;
+svgElement.innerHTML += mapP3;
 
 var svgElement2 = document.createElementNS("http://www.w3.org/2000/svg", "svg");
 svgElement2.setAttribute('xmlns', "http://www.w3.org/2000/svg");
@@ -16,7 +17,7 @@ svgElement2.setAttribute('id', "map-grid");
 svgElement2.innerHTML += svgString;
 
 
-map.setView([22.240048, 114.225517], 13);
+map.setView([22.28752283857314, 114.22897338867189], 13);
 
 // var svgBounds = [[22.600739, 113.814195], [22.162862, 114.469347]];
 // map can capture clicks...
