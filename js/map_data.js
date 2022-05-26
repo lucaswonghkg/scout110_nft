@@ -9,8 +9,8 @@ var svgString = `
      d="m 107.49575,148.47214 h 75.15233 v 53.10558 h -75.15233 z" />
   <path
      id="rect207113-2"
-     style="fill:#b3d85f;fill-opacity:1;stroke-width:0.252756"
-     d="m 165.35957,101.63384 h 51.89888 v 78.45 h -51.89888 z" />
+     style="fill:#b3d85f;fill-opacity:1;stroke-width:0.442983"
+     d="m 165.35957,54.653887 h 90.57002 V 192.73583 h -90.57002 z" />
   <path
      id="rect206604"
      style="fill:#1e1f34;fill-opacity:1;stroke-width:1"
@@ -40,23 +40,25 @@ var svgString = `
      x="134.4184"
      y="147.27837" />
   <rect
-     style="fill:#1e1f34;fill-opacity:1;stroke-width:1.1405"
-     id="rect2053-3"
-     width="26.790482"
-     height="28.549936"
-     x="196.49323"
-     y="99.288956" />
+     style="fill:#1e1f34;stroke-width:0.280224"
+     id="rect2190"
+     width="44.731541"
+     height="24.818792"
+     x="141.81807"
+     y="49.524231" />
   <rect
-     style="fill:#1e1f34;fill-opacity:1;stroke-width:1.1405"
-     id="rect2053-3-8"
-     width="26.790482"
-     height="28.549936"
-     x="201.77762"
-     y="109.15809" />
+     style="fill:#1e1f34;stroke-width:0.210598"
+     id="rect2190-2"
+     width="22.733603"
+     height="27.581949"
+     x="182.38785"
+     y="36.487202"
+     transform="matrix(0.99988428,-0.01521289,0,1,0,0)" />
   <rect
-     style="fill:#1e1f34;fill-opacity:1;stroke-width:1.6895"
-     id="rect2053-3-9"
-     width="45.226303"
-     height="37.112137"
-     x="152.23204"
-     y="95.575989" />`
+     style="fill:#1e1f34;stroke-width:0.205058"
+     id="rect2190-2-7"
+     width="23.952967"
+     height="24.818792"
+     x="173.9928"
+     y="43.315639"
+     transform="matrix(0.9999156,-0.01299201,0,1,0,0)" />`
