@@ -11,6 +11,7 @@ svgElement.innerHTML += hkiTwo;
 svgElement.innerHTML += mapP3;
 svgElement.innerHTML += janFebExtra;
 svgElement.innerHTML += map_may;
+svgElement.innerHTML += map_cMay;
 
 
 var svgElement2 = document.createElementNS("http://www.w3.org/2000/svg", "svg");

@@ -9,8 +9,8 @@ var svgString = `
      d="m 107.49575,148.47214 h 75.15233 v 53.10558 h -75.15233 z" />
   <path
      id="rect207113-2"
-     style="fill:#b3d85f;fill-opacity:1;stroke-width:0.442983"
-     d="m 165.35957,54.653887 h 90.57002 V 192.73583 h -90.57002 z" />
+     style="fill:#b3d85f;fill-opacity:1;stroke-width:0.502353"
+     d="M 139.45538,54.653887 H 255.92959 V 192.73583 H 139.45538 Z" />
   <path
      id="rect206604"
      style="fill:#1e1f34;fill-opacity:1;stroke-width:1"
@@ -40,11 +40,11 @@ var svgString = `
      x="134.4184"
      y="147.27837" />
   <rect
-     style="fill:#1e1f34;stroke-width:0.280224"
+     style="fill:#1e1f34;stroke-width:0.323444"
      id="rect2190"
-     width="44.731541"
+     width="59.593956"
      height="24.818792"
-     x="141.81807"
+     x="126.95565"
      y="49.524231" />
   <rect
      style="fill:#1e1f34;stroke-width:0.210598"
